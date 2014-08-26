@@ -1,0 +1,73 @@
+CHANGES
+
+Version 1.16
+
++ Added Stop Motion by Elad Mordechai Mizrahi
+
++ Added Pfennig by David Johnston
+
++ Added Mashkit by Refoyl Finkl
+
+- Removed font index ODS file. Current font index is maintained at http://opensiddur.org/tools/fonts/
+
+
+Version 1.15
+
++ Added Frank Ruehl Curved Lamed to Yoram Gnat's Culmus directory under Hebrew Fonts w/ Vowels (no cantillation).
+
++ Added Drugulin CLM Italic to font chart.
+
+
+Version 1.14
+
++ Renamed directory "Dingbats" to "Symbols and Dingbats"
+
++ Added George Douros's Symbola, Unidings, and Musica fonts to Symbols and Dingbats
+
++ Added George Douros's Aegyptus, Akkadian, Analecta, and Anatolian fonts to Non-Hebrew Scripts
+
+
+Version 1.13
+
++ Added new Shlomo fonts (shared with an SIL OFL). Thanks Shlomo Orbach! Includes the new Shlomo Stam font.
+
++ Added Linux Libertine TTF fonts v. 5.3.0-2012-07-02.
+
++ Shuneet's new license is CC-BY-SA 3.0 Unported. Thanks Mike Thompson!
+
+
+Version 1.12
+
++ Added new Mekorot-Rashi. The font has been reworked by Yoram Gnat. Now supports niqud! (Thank you, Yoram!)
+
++ Moved Mekorot-Rashi from "Hebrew Letters only" directory to "Hebrew Letters with Vowels" directory
+
+
+Version 1.11
+
++ New font by HaGilda: Alef. (Thank you, HaGilda!)
+
+
+Version 1.10
+
++ New Cumliffe-Thompson font: Shuneet.
+
++ Reorganized fonts into categories indicating level of support for Hebrew diacritics.
+
+
+Version 1.09
+
++ New Install, Readme, Licenses, and Changes files.
+
++ New Culmus Project fonts by Yoram Gnat: Shofar and Taamey Ashkenaz. (Thank you, Maxim Iorsh and Yoram Gnat!)
+
++ Updated Culmus Project documentation to 0.130
+
++ Now includes Biblical (Tiro) Keyboard Layouts for Microsoft Windows and Apple OS X operating systems. (Thank you, John Hudson.)
+	
+- Removed Masoretic Hebrew Keyboard Layout
+
+
+Version 1.01 - 1.08
+
++ Apologies. Changes to versions 1.01 through 1.08 were not documented.

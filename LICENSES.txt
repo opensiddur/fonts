@@ -1,0 +1,35 @@
+LICENSES
+
+The fonts in this font pack are organized according to the following schema:
+
+1) Project/Foundry (License)
+2) Typographer
+3) sub-project or additional classification
+
+Wherever possible we have tried to retain existing documentation (License, Changes, etc.) with the fonts being redistributed.
+
+All the fonts in this font pack are free for creative reuse (as well as free-gratis, free-without-fee to download). The fonts in this font pack are being redistributed in agreement with the following licences.
+
+	GPL (GNU Public License, two flavors: version 2 <http://www.gnu.org/licenses/gpl-2.0.html>, and version 3 <http://www.gnu.org/licenses/gpl.html>.)
+	
+	GPL-FE (GNU Public License v.2 with Font Exception Clause, <http://en.wikipedia.org/wiki/GNU_GPL_font_exception>)
+	
+	OFL (Open Font License, <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1>)
+	
+	LPPL (LaTeX Project Public License, <http://www.latex-project.org/lppl/>).
+
+See the specific license associated with the Project, Foundry, or Typographer to know more about the terms of use for that specific font.
+
+EXCEPTIONS
+
+Refoyl Finkl's fonts are not explicity shared without a specific open-source font license, but he has permitted us to distribute the font under the license we think is best. We are sharing his font with a GPL+FE.
+
+George Douros's fonts are shared with the following statement on his website <http://users.teilar.gr/~g1951d/>:
+"In lieu of a licence: Fonts in this site are offered free for any use; they may be installed, embedded, opened, edited, modified, regenerated, posted, packaged and redistributed."
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+This package is distributed under the terms of GNU General Public License
+version 2 (see file GNU-GPL).
+-------------------------------------------------------------------------
+
+As a special exception, if you create a document which uses this fonts,
+and embed this fonts or unaltered portions of this fonts into the document,
+this fonts do not by themself cause the resulting document to be covered
+by the GNU General Public License. This exception does not however
+invalidate any other reasons why the document might be covered
+by the GNU General Public License. If you modify this fonts, you may extend
+this exception to your version of the fonts, but you are not obligated
+to do so. If you do not wish to do so, delete this exception statement
+from your version. 
+

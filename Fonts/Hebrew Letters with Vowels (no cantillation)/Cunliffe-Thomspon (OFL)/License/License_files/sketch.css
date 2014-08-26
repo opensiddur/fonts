@@ -1,0 +1,189 @@
+/**
+ * 2010-06-05
+ * Style sheet for Michael Cunliffe Thompson web site.
+ **/
+ 
+ 
+/* ----------------------------- BODY -----------------------------*/
+
+/* Dark grey background to make images more luminous.
+ * Foreground (text) is white.
+ */  
+body {  
+	background-color: #999999;
+	color: white;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  
+    font-size: small;
+    font-weight: normal;
+      
+ 	scrollbar-base-color: #999999;
+	scrollbar-track-color: #aaaaaa; 
+	scrollbar-width: 5px;
+
+     }
+
+
+/*  Allow scrolling of the thumbnails strip */
+div.strip  {
+
+  text-align : left;
+  padding : 0px;
+  width : 200;
+  height :700;
+  overflow: auto;
+}
+
+/*  Allow scrolling of the thumbnails strip */
+div.strip_wide  {
+
+  text-align : left;
+  padding : 0px;
+  width : 300;
+  height :700;
+  overflow: auto;
+}
+
+
+/* ---------------------- FONTS -------------------------------*/
+
+strong {
+      color:red;
+}
+
+small { 
+       color:black;
+       }
+       
+
+/* ----------------------------- HEADINGS ------------------------------*/
+
+
+h1, h2, h3 {
+	color: #003399;   
+    font-family: "Tempus Sans ITC", Arial;  
+ 	margin-left: 0px;
+	font-weight: bold;
+	text-align: left;
+	valign: top;
+	}
+
+h1 {     font-size:xx-large;
+         margin-top:-15px;
+         margin-bottom:-10px;  /* to tighten up. */
+         }
+h2 {     font-size:x-large;
+         margin-bottom:-5px; /* to tighten up. */
+       }
+h3 {    font-size: large;
+         margin-bottom:-5px; /* to tighten up. */
+  }
+
+hr {	color: sienna;
+	}
+
+/* ------------------ PARAGRAPH ------------------------ */
+
+p {
+    	margin-left:  0px; 
+        color:white;    
+        }
+
+p.verysmalltext	
+        font-size: x-small;
+	    color: black;
+        }
+
+/* -------------------------------- TABLES --------------------------*/
+
+table {	
+     
+     border-style: solid;
+     border-color: red;
+     border-width: 0px;             /* Change to 1 to debug */
+     
+     frameborder: 0px;
+     framespacing: 0px;
+     padding: 0px;
+  
+     margin: 0px;
+     margin-below: 0cm;
+
+}
+
+table.topleft {
+
+
+ }
+
+tr {
+   border-width: 0;
+   padding: 0px;
+}
+
+
+td {
+   text-align: left;
+   vertical-align: top;
+   border-width: 0;
+   padding: 0px;
+}
+
+
+table.thumbnails td {
+      border-style: solid;
+      border-color: red;       
+      border-width: 0px;     /* Change to 1 to debug */
+
+     padding: 0px 
+              0px 
+              20px /* Separation from thumbnail below */
+              0px  
+ }
+
+td.thumbnails {
+      border-style: solid;
+      border-color: red;       
+      border-width: 0px;     /* Change to 1 to debug */
+
+     padding: 0px 
+              0px 
+              20px /* Separation from thumbnail below */
+              0px  
+ }
+
+
+/* The html page containing the image will be inside this */
+td.right-hand-image {
+      border-style: solid;
+      border-color: red;  
+      border-width: 0px;         /* Change to 1 to debug */
+         
+     padding: 0px 0px 0px 50px  /* Separation from thumbnails strip to left */
+}
+
+
+/* ------------------------ LINKS --------------------------------*/
+
+
+/* Make the unvisited stand out more than the visited */
+
+a { text-decoration:none }
+a:visited   	{color: #ccccff} 	/* light blue */
+a:link  		{color: black}
+a:active   	{color: white } 
+a:hover    	{color: blue}
+
+
+
+a img  {
+  border: none;
+}
+
+
+/* use for Home, Top, Prices etc*/
+a.navigate {
+	       color:        black;
+           font-size:  small;
+           font-style: oblique;
+     }
+

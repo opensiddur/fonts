@@ -1,0 +1,1440 @@
+%! Jerusalem Hebrew font
+% renamed to Jslm (Jerusalem is the metafont version
+%FontDirectory /Jslm known { stop } if
+%serverdict begin 0 exitserver
+%(loading: Jslm \(Jerusalem\)\n) print flush
+
+/JslmBuildDict 11 dict def
+/JslmFont 12 dict def
+JslmFont begin
+/FontName /Jslm def %%%%%%%%% db %%%%%%%%%
+/FontType 3 def
+/FontMatrix [0.0033 0 0 0.0033 0 0] def
+/FontBBox [0 0 300 300] def
+/PaintType 0 def
+/StrokeWidth 4 def
+/FontInfo 8 dict def FontInfo begin
+	/FullName (Jslm) def
+	/FamilyName (David) def
+	/ItalicAngle 0 def
+	/Weight	(Medium) def
+	/UnderlineThickness 40 def
+	/UnderlinePosition -100 def
+	/isFixedPitch false def
+	/version (1.0) def
+end % FontInfo
+/Encoding 256 array def
+0 1 255 {Encoding exch /.notdef put} for
+/Metrics 255 dict def
+/CharStrings 275 dict def
+Encoding 032 /space put
+Encoding 033 /exclam put
+Encoding 034 /quotedbl put
+Encoding 035 /numsgn put
+Encoding 036 /dolar put
+Encoding 037 /percent put
+Encoding 038 /ampersand put
+Encoding 039 /quote put
+Encoding 040 /lpar put
+Encoding 041 /rpar put
+Encoding 042 /asterisk put
+Encoding 043 /plus put
+Encoding 044 /comma put
+Encoding 045 /hyphen put
+Encoding 046 /period put
+Encoding 047 /slash put
+Encoding 048 /zero put
+Encoding 049 /one put
+Encoding 050 /two put
+Encoding 051 /three put
+Encoding 052 /four put
+Encoding 053 /five put
+Encoding 054 /six put
+Encoding 055 /seven put
+Encoding 056 /eight put
+Encoding 057 /nine put
+Encoding 058 /colon put
+Encoding 059 /semicolon put
+Encoding 060 /less put
+Encoding 061 /equal put
+Encoding 062 /greater put
+Encoding 063 /question put
+Encoding 064 /at put
+Encoding 091 /lbracke put
+Encoding 092 /bkslash put
+Encoding 093 /rbracke put
+Encoding 094 /acircum put
+Encoding 095 /underscore put
+Encoding 123 /lbrace put
+Encoding 124 /bar put
+Encoding 125 /rbrace put
+Encoding 126 /tilde put
+Encoding 163 /sterling put
+Encoding 96 /alef put
+Encoding 97 /bet put
+Encoding 98 /gimel put
+Encoding 99 /dalet put
+Encoding 100 /he put
+Encoding 101 /vav put
+Encoding 102 /zayin put
+Encoding 103 /het put
+Encoding 104 /tet put
+Encoding 105 /yod put
+Encoding 106 /kafs put
+Encoding 107 /kaf put
+Encoding 108 /lamed put
+Encoding 109 /mems put
+Encoding 110 /mem put
+Encoding 111 /nuns put
+Encoding 112 /nun put
+Encoding 113 /samekh put
+Encoding 114 /ayin put
+Encoding 115 /pes put
+Encoding 116 /pe put
+Encoding 117 /sades put
+Encoding 118 /sade put
+Encoding 119 /kof put
+Encoding 120 /resh put
+Encoding 121 /shin put
+Encoding 122 /tav put
+Metrics begin
+/.notdef [000 000 000 000 000 000] def
+/space [104 000 -128 -409 -128 -409] def
+/exclam [052 000 7 -18 54 168] def
+/quotedbl [103 000 12 130 93 217] def
+/numsgn [107 000 4 15 99 158] def
+/dolar [118 000 14 -15 110 159] def
+/percent [200 000 9 -12 209 162] def
+/ampersand [200 000 18 -11 193 171] def
+/quote [064 000 22 120 59 207] def
+/lpar [092 000 13 -9 77 179] def
+/rpar [105 000 31 -14 95 174] def
+/asterisk [092 000 13 71 81 137] def
+/plus [182 000 13 16 171 175] def
+/comma [069 000 16 -50 53 37] def
+/hyphen [114 000 14 81 98 105] def
+/period [056 000 8 -20 48 20] def
+/slash [141 000 10 0 136 170] def
+/zero [136 000 2 -12 140 176] def
+/one [136 000 19 0 118 189] def
+/two [136 000 21 0 120 186] def
+/three [136 000 8 -19 124 174] def
+/four [136 000 7 -16 134 182] def
+/five [136 000 12 -9 115 183] def
+/six [136 000 8 -21 139 185] def
+/seven [136 000 8 -11 128 188] def
+/eight [136 000 11 -19 131 181] def
+/nine [136 000 -3 -19 128 187] def
+/colon [053 000 8 -20 48 90] def
+/semicolon [060 000 11 -47 51 107] def
+/less [123 000 13 32 110 127] def
+/equal [185 000 19 58 171 122] def
+/greater [123 000 12 30 110 125] def
+/question [092 000 9 -20 79 161] def
+/at [200 000 13 -46 196 142] def
+/lbracke [079 000 12 -9 68 178] def
+/bkslash [141 000 10 0 136 170] def
+/rbracke [079 000 12 -9 68 178] def
+/acircum [108 000 16 139 94 222] def
+/underscore [176 000 0 -36 176 -17] def
+/lbrace [108 000 23 -5 95 181] def
+/bar [050 000 14 -66 34 229] def
+/rbrace [111 000 23 -5 95 181] def
+/tilde [153 000 21 125 137 160] def
+/sterling [145 000 12 -10 135 179] def
+/alef [198 000 5 -13 191 188] def
+/bet [170 000 5 0 163 189] def
+/gimel [112 000 5 -14 102 188] def
+/dalet [169 000 9 -17 163 189] def
+/he [187 000 5 -18 176 185] def
+/vav [093 000 8 -19 88 188] def
+/zayin [105 000 5 -18 95 186] def
+/het [180 000 8 -18 173 188] def
+/tet [200 000 3 -14 212 201] def
+/yod [097 000 8 45 98 189] def
+/kafs [158 000 10 -66 152 187] def
+/kaf [165 000 5 0 158 189] def
+/lamed [151 000 6 -12 144 229] def
+/mems [211 000 7 -3 201 188] def
+/mem [190 000 6 -17 185 189] def
+/nuns [090 000 8 -66 88 188] def
+/nun [105 000 5 0 96 189] def
+/samekh [219 000 7 -18 214 188] def
+/ayin [158 000 5 -18 152 189] def
+/pes [157 000 3 -65 150 189] def
+/pe [161 000 6 0 151 188] def
+/sades [156 000 11 -64 151 188] def
+/sade [165 000 5 0 167 187] def
+/kof [210 000 7 -83 206 189] def
+/resh [161 000 6 -18 151 188] def
+/shin [217 000 4 -36 231 191] def
+/tav [206 000 7 -19 196 189] def
+end % Of Metrics
+CharStrings begin
+%%% end of Parts
+/.notdef
+( newpath 1000 1000 moveto closepath )def
+/space
+(
+newpath
+-128 -409 moveto
+closepath
+)def
+/exclam
+(
+newpath
+7 0 moveto
+26 18 lineto
+44 0 lineto
+25 -18 lineto
+7 0 lineto
+7 132 moveto
+35 168 lineto
+54 118 38 63 20 45 curveto
+20 46 lineto
+14 109 16 107 7 132 curveto
+closepath
+)def
+/quotedbl
+(
+newpath
+18 198 moveto
+35 217 lineto
+49 198 44 160 17 132 curveto
+12 130 lineto
+27 160 25 181 18 198 curveto
+62 198 moveto
+79 217 lineto
+93 198 88 160 61 132 curveto
+56 130 lineto
+71 160 69 181 62 198 curveto
+closepath
+)def
+/numsgn
+(
+newpath
+37 157 moveto
+31 113 lineto
+11 113 lineto
+10 104 lineto
+31 104 lineto
+26 67 lineto
+5 67 lineto
+4 57 lineto
+25 57 lineto
+19 15 lineto
+29 15 lineto
+34 58 lineto
+61 58 lineto
+55 15 lineto
+64 15 lineto
+70 57 lineto
+92 57 lineto
+93 67 lineto
+72 67 lineto
+76 104 lineto
+97 104 lineto
+99 114 lineto
+77 114 lineto
+82 157 lineto
+73 158 lineto
+68 113 lineto
+40 113 lineto
+47 157 lineto
+37 157 lineto
+40 104 moveto
+66 104 lineto
+62 66 lineto
+36 66 lineto
+40 104 lineto
+closepath
+)def
+/dolar
+(
+newpath
+19 49 moveto
+23 49 lineto
+29 22 45 12 63 12 curveto
+75 12 85 20 85 33 curveto
+85 42 81 49 44 71 curveto
+27 81 14 102 14 111 curveto
+14 132 28 142 57 147 curveto
+62 147 81 143 98 135 curveto
+98 106 lineto
+93 106 lineto
+87 129 81 134 64 139 curveto
+51 143 35 134 35 120 curveto
+35 110 37 113 83 81 curveto
+99 71 110 59 107 46 curveto
+102 16 91 9 62 4 curveto
+51 4 25 12 19 15 curveto
+19 49 lineto
+53 -15 moveto
+53 159 lineto
+66 159 lineto
+66 -15 lineto
+53 -15 lineto
+closepath
+)def
+/percent
+(
+newpath
+138 162 moveto
+122 141 101 138 89 143 curveto
+59 155 71 158 49 152 curveto
+16 141 9 115 14 85 curveto
+17 61 39 47 71 72 curveto
+91 89 89 105 89 136 curveto
+90 136 lineto
+102 133 115 136 130 144 curveto
+54 -12 lineto
+66 -12 lineto
+151 162 lineto
+138 162 lineto
+67 144 moveto
+67 144 81 138 82 138 curveto
+82 137 lineto
+89 113 83 75 48 70 curveto
+25 67 23 99 48 133 curveto
+56 143 58 148 67 144 curveto
+165 89 moveto
+194 83 209 48 168 6 curveto
+156 -7 121 -3 113 16 curveto
+105 35 121 61 138 78 curveto
+143 83 155 89 165 89 curveto
+167 77 moveto
+143 78 130 52 130 23 curveto
+130 7 143 1 158 7 curveto
+177 19 188 44 181 66 curveto
+179 71 172 76 167 77 curveto
+closepath
+)def
+/ampersand
+(
+newpath
+188 25 moveto
+168 8 150 6 127 33 curveto
+109 56 78 137 78 139 curveto
+78 164 110 164 116 139 curveto
+121 123 108 110 80 98 curveto
+36 79 18 63 18 33 curveto
+18 6 40 -9 80 0 curveto
+96 3 121 19 146 57 curveto
+170 93 166 92 177 93 curveto
+182 93 lineto
+184 99 lineto
+132 99 lineto
+132 97 lineto
+142 96 151 90 144 74 curveto
+133 51 88 11 73 11 curveto
+54 11 37 33 40 48 curveto
+43 63 51 79 96 96 curveto
+123 107 146 127 127 150 curveto
+110 171 76 168 64 146 curveto
+52 127 58 103 73 77 curveto
+92 42 108 17 132 1 curveto
+150 -11 170 -10 193 20 curveto
+188 25 lineto
+closepath
+)def
+/quote
+(
+newpath
+28 188 moveto
+45 207 lineto
+59 188 54 150 27 122 curveto
+22 120 lineto
+37 150 35 171 28 188 curveto
+closepath
+)def
+/lpar
+(
+newpath
+77 179 moveto
+16 147 13 86 33 36 curveto
+41 14 64 -1 77 -9 curveto
+77 -3 lineto
+62 6 56 13 51 29 curveto
+45 45 45 98 49 131 curveto
+53 154 61 163 77 171 curveto
+77 179 lineto
+closepath
+)def
+/rpar
+(
+newpath
+31 174 moveto
+92 142 95 81 75 31 curveto
+66 9 45 -6 31 -14 curveto
+31 -8 lineto
+45 1 51 8 57 24 curveto
+63 40 63 93 58 126 curveto
+56 149 46 158 31 166 curveto
+31 174 lineto
+closepath
+)def
+/asterisk
+(
+newpath
+14 104 moveto
+13 106 14 114 18 122 curveto
+42 109 lineto
+43 109 lineto
+37 135 lineto
+45 137 50 137 55 136 curveto
+50 110 lineto
+50 109 lineto
+73 122 lineto
+78 114 81 109 79 105 curveto
+54 103 lineto
+54 101 lineto
+73 84 lineto
+68 77 63 74 60 72 curveto
+49 96 lineto
+47 96 lineto
+37 71 lineto
+29 74 25 78 23 82 curveto
+41 101 lineto
+41 102 lineto
+14 104 lineto
+closepath
+)def
+/plus
+(
+newpath
+13 104 moveto
+83 104 lineto
+83 175 lineto
+101 175 lineto
+101 104 lineto
+171 104 lineto
+171 86 lineto
+101 86 lineto
+101 16 lineto
+83 16 lineto
+83 86 lineto
+13 86 lineto
+13 104 lineto
+closepath
+)def
+/comma
+(
+newpath
+22 18 moveto
+39 37 lineto
+53 18 48 -20 21 -48 curveto
+16 -50 lineto
+31 -20 29 1 22 18 curveto
+closepath
+)def
+/hyphen
+(
+newpath
+14 81 moveto
+25 105 lineto
+98 105 lineto
+87 81 lineto
+14 81 lineto
+closepath
+)def
+/period
+(
+newpath
+8 0 moveto
+28 20 lineto
+48 0 lineto
+28 -20 lineto
+8 0 lineto
+closepath
+)def
+/slash
+(
+newpath
+11 170 moveto
+44 170 lineto
+33 164 136 10 131 0 curveto
+100 0 lineto
+107 11 10 159 11 170 curveto
+closepath
+)def
+/zero
+(
+newpath
+81 -7 moveto
+52 -12 30 -1 16 29 curveto
+2 63 11 103 24 133 curveto
+29 146 56 176 66 176 curveto
+97 176 119 164 129 122 curveto
+140 69 114 14 81 -7 curveto
+89 17 moveto
+113 41 114 100 93 133 curveto
+80 155 53 159 45 144 curveto
+34 122 32 75 41 44 curveto
+47 20 68 9 89 17 curveto
+closepath
+)def
+/one
+(
+newpath
+19 0 moveto
+35 27 lineto
+59 27 lineto
+59 133 lineto
+54 140 43 148 28 148 curveto
+44 169 62 180 85 189 curveto
+85 27 lineto
+118 27 lineto
+103 0 lineto
+19 0 lineto
+closepath
+)def
+/two
+(
+newpath
+28 147 moveto
+38 173 lineto
+77 186 119 167 113 128 curveto
+107 112 101 106 75 71 curveto
+64 57 54 49 50 27 curveto
+120 27 lineto
+110 0 lineto
+21 0 lineto
+27 34 37 47 63 79 curveto
+77 98 92 118 83 133 curveto
+73 150 53 155 28 147 curveto
+closepath
+)def
+/three
+(
+newpath
+29 146 moveto
+42 171 lineto
+90 174 111 160 109 133 curveto
+107 117 99 105 81 99 curveto
+82 98 lineto
+122 96 124 63 120 42 curveto
+110 -5 49 -19 8 6 curveto
+32 31 lineto
+53 -2 116 21 102 55 curveto
+98 68 81 82 44 77 curveto
+50 96 lineto
+80 108 84 129 73 144 curveto
+66 153 52 151 29 146 curveto
+closepath
+)def
+/four
+(
+newpath
+72 -16 moveto
+72 48 lineto
+7 48 lineto
+7 108 34 172 103 182 curveto
+100 168 99 170 99 160 curveto
+99 76 lineto
+134 76 lineto
+119 48 lineto
+99 48 lineto
+99 7 lineto
+72 -16 lineto
+72 76 moveto
+72 150 lineto
+45 139 31 116 27 76 curveto
+72 76 lineto
+closepath
+)def
+/five
+(
+newpath
+12 13 moveto
+32 40 lineto
+58 8 89 22 92 53 curveto
+92 71 80 81 59 84 curveto
+49 86 31 81 23 78 curveto
+23 162 lineto
+46 183 lineto
+46 170 lineto
+115 170 lineto
+99 146 lineto
+46 146 lineto
+46 106 lineto
+83 112 105 99 111 70 curveto
+115 51 110 13 78 0 curveto
+55 -9 32 -7 12 13 curveto
+closepath
+)def
+/six
+(
+newpath
+92 185 moveto
+34 83 lineto
+51 104 84 116 110 95 curveto
+139 68 128 27 92 0 curveto
+56 -21 20 12 13 29 curveto
+8 40 11 54 14 66 curveto
+46 161 lineto
+92 185 lineto
+99 29 moveto
+108 57 98 80 71 84 curveto
+56 86 36 73 34 62 curveto
+34 25 64 11 99 29 curveto
+closepath
+)def
+/seven
+(
+newpath
+8 146 moveto
+9 153 22 174 37 188 curveto
+42 170 lineto
+128 170 lineto
+126 159 119 135 99 107 curveto
+62 44 54 34 61 13 curveto
+24 -11 lineto
+22 17 28 34 47 61 curveto
+100 146 lineto
+8 146 lineto
+closepath
+)def
+/eight
+(
+newpath
+50 87 moveto
+18 110 20 142 49 167 curveto
+60 179 98 181 117 155 curveto
+127 137 120 115 92 93 curveto
+120 81 131 59 115 27 curveto
+96 -15 47 -19 22 26 curveto
+11 44 20 59 35 76 curveto
+50 87 lineto
+82 100 moveto
+88 107 lineto
+101 119 100 141 88 150 curveto
+69 165 53 158 49 140 curveto
+46 128 52 123 82 100 curveto
+62 81 moveto
+44 63 41 52 43 43 curveto
+51 15 88 11 98 28 curveto
+106 44 100 69 62 81 curveto
+closepath
+)def
+/nine
+(
+newpath
+44 -19 moveto
+102 83 lineto
+85 62 52 50 26 71 curveto
+-3 98 8 139 44 166 curveto
+80 187 116 154 123 137 curveto
+128 126 125 112 122 100 curveto
+90 5 lineto
+44 -19 lineto
+37 137 moveto
+28 109 38 86 65 82 curveto
+80 80 100 93 102 104 curveto
+102 141 72 155 37 137 curveto
+closepath
+)def
+/colon
+(
+newpath
+8 0 moveto
+28 20 lineto
+48 0 lineto
+28 -20 lineto
+8 0 lineto
+8 70 moveto
+28 90 lineto
+48 70 lineto
+28 50 lineto
+8 70 lineto
+closepath
+)def
+/semicolon
+(
+newpath
+19 21 moveto
+36 40 lineto
+50 21 45 -17 18 -45 curveto
+13 -47 lineto
+28 -17 26 4 19 21 curveto
+11 87 moveto
+31 107 lineto
+51 87 lineto
+31 67 lineto
+11 87 lineto
+closepath
+)def
+/less
+(
+newpath
+110 32 moveto
+110 49 lineto
+32 80 lineto
+110 111 lineto
+110 127 lineto
+13 88 lineto
+13 71 lineto
+110 32 lineto
+closepath
+)def
+/equal
+(
+newpath
+19 58 moveto
+19 76 lineto
+171 76 lineto
+171 58 lineto
+19 58 lineto
+19 103 moveto
+19 122 lineto
+171 122 lineto
+171 103 lineto
+19 103 lineto
+closepath
+)def
+/greater
+(
+newpath
+12 30 moveto
+12 47 lineto
+91 78 lineto
+12 109 lineto
+12 125 lineto
+110 86 lineto
+110 69 lineto
+12 30 lineto
+closepath
+)def
+/question
+(
+newpath
+19 0 moveto
+39 20 lineto
+59 0 lineto
+39 -20 lineto
+19 0 lineto
+9 133 moveto
+29 161 lineto
+60 161 73 147 76 129 curveto
+79 118 74 108 61 93 curveto
+52 82 49 72 58 60 curveto
+38 40 lineto
+26 55 25 66 39 85 curveto
+46 94 50 106 42 123 curveto
+36 133 19 134 9 133 curveto
+closepath
+)def
+/at
+(
+newpath
+150 -31 moveto
+71 -46 32 -22 17 24 curveto
+13 59 24 99 70 122 curveto
+110 142 159 126 177 99 curveto
+192 76 196 36 166 11 curveto
+146 -5 129 -7 121 12 curveto
+120 19 lineto
+118 18 lineto
+106 -1 77 -10 63 19 curveto
+58 28 58 46 73 68 curveto
+87 91 117 99 127 83 curveto
+131 79 lineto
+133 88 lineto
+156 88 lineto
+139 18 lineto
+139 5 152 6 165 20 curveto
+183 38 182 73 169 94 curveto
+156 118 131 126 109 120 curveto
+75 110 54 92 48 69 curveto
+35 26 45 -6 71 -20 curveto
+94 -33 124 -35 147 -23 curveto
+150 -31 lineto
+95 11 moveto
+105 8 114 16 121 49 curveto
+126 74 126 81 113 80 curveto
+105 79 94 56 92 45 curveto
+88 17 92 9 95 11 curveto
+closepath
+)def
+/lbracke
+(
+newpath
+68 -9 moveto
+59 14 lineto
+37 14 lineto
+37 154 lineto
+66 154 lineto
+55 178 lineto
+12 178 lineto
+16 172 lineto
+16 14 lineto
+29 -9 lineto
+68 -9 lineto
+closepath
+)def
+/bkslash
+(
+newpath
+11 170 moveto
+44 170 lineto
+33 164 136 10 131 0 curveto
+100 0 lineto
+107 11 10 159 11 170 curveto
+closepath
+)def
+/rbracke
+(
+newpath
+12 -9 moveto
+21 14 lineto
+43 14 lineto
+43 154 lineto
+14 154 lineto
+25 178 lineto
+68 178 lineto
+64 172 lineto
+64 14 lineto
+51 -9 lineto
+12 -9 lineto
+closepath
+)def
+/acircum
+(
+newpath
+44 222 moveto
+61 222 lineto
+94 139 lineto
+78 139 lineto
+52 199 lineto
+33 139 lineto
+16 139 lineto
+44 222 lineto
+closepath
+)def
+/underscore
+(
+newpath
+0 -36 moveto
+0 -17 lineto
+176 -17 lineto
+176 -36 lineto
+0 -36 lineto
+closepath
+)def
+/lbrace
+(
+newpath
+95 181 moveto
+67 181 lineto
+54 176 52 173 52 161 curveto
+52 122 lineto
+51 100 47 96 23 91 curveto
+23 84 lineto
+47 80 52 72 50 60 curveto
+50 14 lineto
+52 0 54 -2 65 -5 curveto
+95 -5 lineto
+95 1 lineto
+77 1 lineto
+67 5 70 5 65 23 curveto
+65 58 lineto
+66 70 58 82 35 87 curveto
+63 99 67 101 67 118 curveto
+67 154 lineto
+67 168 71 173 82 175 curveto
+95 175 lineto
+95 181 lineto
+closepath
+)def
+/bar
+(
+newpath
+14 -66 moveto
+14 229 lineto
+34 229 lineto
+34 -66 lineto
+14 -66 lineto
+closepath
+)def
+/rbrace
+(
+newpath
+23 181 moveto
+51 181 lineto
+64 176 66 173 66 161 curveto
+66 122 lineto
+67 100 71 96 95 91 curveto
+95 84 lineto
+71 80 66 72 68 60 curveto
+68 14 lineto
+66 0 64 -2 53 -5 curveto
+23 -5 lineto
+23 1 lineto
+41 1 lineto
+51 5 48 5 53 23 curveto
+53 58 lineto
+52 70 60 82 83 87 curveto
+55 99 51 101 51 118 curveto
+51 154 lineto
+51 168 47 173 36 175 curveto
+23 175 lineto
+23 181 lineto
+closepath
+)def
+/tilde
+(
+newpath
+31 135 moveto
+23 141 21 140 34 152 curveto
+41 160 62 159 84 148 curveto
+103 138 116 136 130 154 curveto
+137 148 lineto
+129 134 109 125 89 135 curveto
+59 150 45 149 31 135 curveto
+closepath
+)def
+/sterling
+(
+newpath
+126 43 moveto
+130 43 lineto
+123 3 110 -7 89 -3 curveto
+83 -1 49 32 42 32 curveto
+29 32 12 27 29 10 curveto
+40 -1 56 12 57 25 curveto
+59 37 53 66 50 76 curveto
+25 78 lineto
+25 96 lineto
+47 94 lineto
+39 115 42 133 53 155 curveto
+61 171 79 179 105 170 curveto
+123 162 135 146 128 132 curveto
+123 122 109 117 102 127 curveto
+99 131 96 161 91 163 curveto
+80 170 71 155 71 142 curveto
+71 142 81 110 79 94 curveto
+109 94 lineto
+109 75 lineto
+81 76 lineto
+81 48 81 82 64 13 curveto
+61 -1 48 -10 29 2 curveto
+15 9 17 24 25 35 curveto
+29 43 43 46 59 37 curveto
+86 26 113 16 126 43 curveto
+closepath
+)def
+/alef
+(
+newpath
+5 0 moveto
+13 17 lineto
+10 64 15 66 46 128 curveto
+46 128 lineto
+45 130 20 154 6 162 curveto
+6 163 lineto
+24 188 lineto
+49 172 123 101 132 89 curveto
+133 88 lineto
+148 118 147 137 138 153 curveto
+138 153 lineto
+164 187 lineto
+181 150 185 133 146 77 curveto
+146 75 lineto
+164 58 189 25 190 24 curveto
+191 23 lineto
+175 -13 lineto
+130 47 102 81 61 116 curveto
+60 116 lineto
+40 87 40 67 42 32 curveto
+45 33 lineto
+69 33 lineto
+54 0 lineto
+5 0 lineto
+closepath
+)def
+/bet
+(
+newpath
+5 0 moveto
+25 30 lineto
+111 30 lineto
+113 117 106 140 75 140 curveto
+13 140 lineto
+16 155 24 173 42 189 curveto
+47 170 lineto
+94 170 lineto
+136 168 142 114 138 30 curveto
+163 30 lineto
+144 0 lineto
+5 0 lineto
+closepath
+)def
+/gimel
+(
+newpath
+5 -12 moveto
+20 28 lineto
+46 32 57 45 69 65 curveto
+62 108 lineto
+58 128 50 136 10 157 curveto
+29 188 lineto
+69 168 85 153 87 133 curveto
+102 20 lineto
+98 -4 89 -14 89 -14 curveto
+75 41 lineto
+59 7 38 -9 5 -12 curveto
+closepath
+)def
+/dalet
+(
+newpath
+104 -17 moveto
+104 140 lineto
+9 140 lineto
+22 159 35 175 44 188 curveto
+44 186 lineto
+50 171 51 170 58 170 curveto
+111 170 lineto
+118 177 125 184 131 189 curveto
+131 170 lineto
+163 170 lineto
+148 140 lineto
+131 140 lineto
+131 11 lineto
+104 -17 lineto
+closepath
+)def
+/he
+(
+newpath
+22 -18 moveto
+22 80 lineto
+28 90 39 103 51 115 curveto
+51 21 lineto
+49 6 35 -8 22 -18 curveto
+5 140 moveto
+15 157 25 171 41 185 curveto
+42 170 lineto
+124 170 lineto
+162 170 176 153 175 97 curveto
+175 20 lineto
+169 7 158 -7 148 -17 curveto
+148 103 lineto
+149 133 141 140 108 140 curveto
+5 140 lineto
+closepath
+)def
+/vav
+(
+newpath
+62 -19 moveto
+62 94 lineto
+62 107 64 124 44 136 curveto
+8 161 lineto
+31 188 lineto
+66 162 lineto
+83 149 88 130 86 117 curveto
+86 8 lineto
+77 -3 66 -9 62 -19 curveto
+closepath
+)def
+/zayin
+(
+newpath
+62 -18 moveto
+25 68 21 96 33 113 curveto
+43 131 lineto
+32 144 21 153 5 163 curveto
+33 186 lineto
+95 130 lineto
+77 99 lineto
+51 123 lineto
+47 92 54 63 80 21 curveto
+62 -18 lineto
+closepath
+)def
+/het
+(
+newpath
+13 -18 moveto
+24 93 24 107 8 149 curveto
+42 188 lineto
+46 170 lineto
+87 170 lineto
+147 164 171 133 173 76 curveto
+173 15 lineto
+146 -18 lineto
+146 54 lineto
+145 104 129 135 93 138 curveto
+48 138 lineto
+54 84 42 46 40 11 curveto
+13 -18 lineto
+closepath
+)def
+/tet
+(
+newpath
+3 153 moveto
+30 188 lineto
+49 118 60 29 73 26 curveto
+81 16 154 39 159 83 curveto
+167 137 128 152 79 127 curveto
+98 164 lineto
+176 201 212 134 178 66 curveto
+157 25 128 2 96 -4 curveto
+49 -14 35 1 27 56 curveto
+20 119 17 126 3 153 curveto
+closepath
+)def
+/yod
+(
+newpath
+8 162 moveto
+36 189 lineto
+83 151 98 123 82 95 curveto
+82 95 66 74 41 51 curveto
+19 45 lineto
+70 115 67 118 8 162 curveto
+closepath
+)def
+/kafs
+(
+newpath
+10 140 moveto
+18 159 24 170 43 187 curveto
+46 170 lineto
+152 170 lineto
+137 140 lineto
+124 140 lineto
+124 -38 lineto
+97 -66 lineto
+97 140 lineto
+10 140 lineto
+closepath
+)def
+/kaf
+(
+newpath
+5 140 moveto
+10 163 25 182 35 189 curveto
+44 170 lineto
+98 170 lineto
+140 170 151 139 154 110 curveto
+158 90 146 38 111 0 curveto
+5 0 lineto
+24 32 lineto
+113 32 lineto
+138 86 131 141 82 140 curveto
+5 140 lineto
+closepath
+)def
+/lamed
+(
+newpath
+13 -12 moveto
+31 27 lineto
+75 41 102 56 111 86 curveto
+117 105 127 137 101 138 curveto
+17 138 lineto
+12 138 12 138 12 144 curveto
+13 189 12 195 6 202 curveto
+32 229 lineto
+36 222 40 217 37 170 curveto
+116 170 lineto
+138 169 144 161 143 131 curveto
+141 79 112 46 98 32 curveto
+78 9 36 -8 13 -12 curveto
+closepath
+)def
+/mems
+(
+newpath
+7 146 moveto
+7 146 24 172 48 188 curveto
+53 170 lineto
+146 170 lineto
+180 170 201 157 201 117 curveto
+201 34 lineto
+168 0 lineto
+62 0 lineto
+39 -3 29 18 27 50 curveto
+27 119 lineto
+26 138 19 143 7 146 curveto
+50 140 moveto
+50 58 lineto
+51 41 60 29 78 29 curveto
+175 29 lineto
+176 115 174 137 143 140 curveto
+50 140 lineto
+closepath
+)def
+/mem
+(
+newpath
+6 -17 moveto
+35 13 lineto
+62 93 85 137 109 145 curveto
+153 153 164 66 161 32 curveto
+79 32 lineto
+60 0 lineto
+162 0 lineto
+180 34 lineto
+185 127 164 178 130 178 curveto
+97 178 80 161 58 116 curveto
+63 147 38 180 31 189 curveto
+9 155 lineto
+40 99 33 124 6 -17 curveto
+closepath
+)def
+/nuns
+(
+newpath
+62 -66 moveto
+62 94 lineto
+62 107 64 124 44 136 curveto
+8 161 lineto
+31 188 lineto
+66 162 lineto
+83 149 88 130 86 117 curveto
+86 -35 lineto
+82 -46 69 -60 62 -66 curveto
+closepath
+)def
+/nun
+(
+newpath
+5 0 moveto
+21 30 lineto
+72 30 lineto
+72 111 lineto
+69 125 49 139 23 157 curveto
+44 189 lineto
+69 174 89 154 96 142 curveto
+96 121 lineto
+96 28 lineto
+78 0 lineto
+5 0 lineto
+closepath
+)def
+/samekh
+(
+newpath
+7 144 moveto
+13 158 34 178 48 188 curveto
+53 170 lineto
+173 170 lineto
+195 170 206 158 210 125 curveto
+214 89 205 53 142 6 curveto
+115 -14 84 -18 66 1 curveto
+60 6 53 21 51 32 curveto
+43 77 29 133 7 144 curveto
+59 140 moveto
+81 39 lineto
+88 22 106 16 136 32 curveto
+161 47 174 69 176 98 curveto
+176 121 172 133 161 140 curveto
+59 140 lineto
+closepath
+)def
+/ayin
+(
+newpath
+5 -18 moveto
+17 21 lineto
+50 31 66 36 69 38 curveto
+37 119 14 156 12 159 curveto
+37 189 lineto
+64 126 75 92 88 45 curveto
+109 60 118 70 120 80 curveto
+125 91 115 139 105 157 curveto
+136 189 lineto
+152 124 151 109 143 78 curveto
+141 66 117 30 82 16 curveto
+53 2 9 -16 5 -18 curveto
+closepath
+)def
+/pes
+(
+newpath
+48 56 moveto
+11 91 3 104 10 127 curveto
+19 154 46 184 62 189 curveto
+80 184 122 165 139 147 curveto
+145 142 150 128 148 100 curveto
+148 -40 lineto
+123 -65 lineto
+123 82 lineto
+125 124 120 131 61 164 curveto
+48 158 43 150 40 142 curveto
+34 125 45 104 69 86 curveto
+48 56 lineto
+closepath
+)def
+/pe
+(
+newpath
+6 0 moveto
+24 30 lineto
+127 30 lineto
+126 64 123 102 119 125 curveto
+112 139 69 155 57 159 curveto
+36 127 45 112 70 101 curveto
+51 72 lineto
+20 92 17 106 18 123 curveto
+20 140 37 174 59 188 curveto
+78 187 103 176 137 146 curveto
+146 138 151 130 150 120 curveto
+150 90 lineto
+150 39 lineto
+127 0 lineto
+6 0 lineto
+closepath
+)def
+/sades
+(
+newpath
+11 156 moveto
+34 188 lineto
+62 158 87 110 99 86 curveto
+112 96 116 129 107 146 curveto
+136 187 lineto
+151 146 138 103 109 70 curveto
+125 36 145 -16 148 -31 curveto
+133 -64 lineto
+123 4 75 89 11 156 curveto
+closepath
+)def
+/sade
+(
+newpath
+5 0 moveto
+25 30 lineto
+126 30 lineto
+125 39 121 46 97 67 curveto
+55 106 31 133 16 157 curveto
+40 187 lineto
+61 147 84 125 111 98 curveto
+126 125 123 131 116 153 curveto
+141 186 lineto
+167 152 156 134 123 85 curveto
+124 84 lineto
+139 69 150 55 158 41 curveto
+153 29 140 13 130 0 curveto
+5 0 lineto
+closepath
+)def
+/kof
+(
+newpath
+20 -83 moveto
+20 76 lineto
+25 87 35 105 52 116 curveto
+52 -46 lineto
+45 -64 34 -78 20 -83 curveto
+7 140 moveto
+8 146 25 176 43 189 curveto
+47 170 lineto
+172 170 lineto
+198 170 206 147 196 109 curveto
+182 62 175 53 156 27 curveto
+145 13 109 -9 76 -15 curveto
+93 23 lineto
+143 38 155 45 165 88 curveto
+172 114 167 138 144 140 curveto
+7 140 lineto
+closepath
+)def
+/resh
+(
+newpath
+124 -18 moveto
+124 79 lineto
+125 128 104 140 89 140 curveto
+6 140 lineto
+12 154 22 167 42 188 curveto
+45 170 lineto
+100 170 lineto
+128 170 151 147 151 109 curveto
+151 8 lineto
+124 -18 lineto
+closepath
+)def
+/shin
+(
+newpath
+4 158 moveto
+31 189 lineto
+42 180 50 138 67 77 curveto
+98 98 100 109 91 160 curveto
+118 191 lineto
+141 131 124 93 72 54 curveto
+79 29 lineto
+83 18 89 12 113 21 curveto
+186 45 186 89 167 154 curveto
+197 189 lineto
+231 81 174 31 134 1 curveto
+85 -36 60 -15 50 16 curveto
+17 131 12 152 4 158 curveto
+closepath
+)def
+/tav
+(
+newpath
+7 0 moveto
+26 30 lineto
+66 30 lineto
+67 60 58 109 45 140 curveto
+8 140 lineto
+16 159 34 183 47 189 curveto
+54 170 lineto
+156 170 lineto
+184 169 196 155 196 124 curveto
+196 14 lineto
+190 -1 185 -11 172 -19 curveto
+172 90 lineto
+173 136 158 141 140 140 curveto
+75 140 lineto
+86 80 90 73 90 47 curveto
+73 0 lineto
+7 0 lineto
+closepath
+)def
+end % of CharStrings
+/BuildChar {
+JslmBuildDict
+begin
+/char exch def
+/fontdict exch def
+/charname fontdict /Encoding get
+char get def
+/charproc fontdict /CharStrings get
+charname get def
+gsave
+0.2 setflat
+% 0.2 setlinewidth
+fontdict /Metrics get charname get /scarr exch def
+scarr type /arraytype eq {
+	scarr 0 get 14 add
+	scarr 1 get
+	scarr 2 get
+	scarr 3 get
+	scarr 4 get 7 add
+	scarr 5 get
+}
+{
+	scarr 0.3 mul
+	0
+	fontdict /FontBBox get aload pop
+} ifelse
+setcachedevice
+7 0 translate
+charproc cvx exec 
+fontdict /PaintType get
+0 eq
+{fill}
+{ fontdict /StrokeWidth get setlinewidth stroke} ifelse
+grestore
+end
+}def
+end
+/Jslm JslmFont definefont pop
+(Jslm loaded\n) print flush

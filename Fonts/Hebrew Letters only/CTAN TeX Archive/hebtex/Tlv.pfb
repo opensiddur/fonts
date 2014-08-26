@@ -1,0 +1,1402 @@
+%! TelAviv Hebrew font
+
+%FontDirectory /Tlv known { stop } if
+%serverdict begin 0 exitserver
+
+/TelAvivBuildDict 11 dict def
+/TelAvivFont 11 dict def
+TelAvivFont begin
+/FontType 3 def
+/FontMatrix [0.0033 0 0 0.0033 0 0] def
+/FontBBox [0 0 300 300] def
+/PaintType 0 def
+/FontInfo 8 dict def FontInfo begin
+	/FullName (TelAviv) def
+	/FamilyName (?) def
+	/ItalicAngle 0 def
+	/Weight	(Medium) def
+	/UnderlineThickness 40 def
+	/UnderlinePosition -100 def
+	/isFixedPitch false def
+	/version (1.0) def
+end % FontInfo
+/Encoding 256 array def
+0 1 255 {Encoding exch /.notdef put} for
+/Metrics 255 dict def
+/CharStrings 275 dict def
+Encoding 032 /space put
+Encoding 033 /exclam put
+Encoding 034 /quotedbl put
+Encoding 035 /numsgn put
+Encoding 036 /dolar put
+Encoding 037 /percent put
+Encoding 038 /ampersand put
+Encoding 039 /quote put
+Encoding 040 /lpar put
+Encoding 041 /rpar put
+Encoding 042 /asterisk put
+Encoding 043 /plus put
+Encoding 044 /comma put
+Encoding 045 /hyphen put
+Encoding 046 /period put
+Encoding 047 /slash put
+Encoding 048 /zero put
+Encoding 049 /one put
+Encoding 050 /two put
+Encoding 051 /three put
+Encoding 052 /four put
+Encoding 053 /five put
+Encoding 054 /six put
+Encoding 055 /seven put
+Encoding 056 /eight put
+Encoding 057 /nine put
+Encoding 058 /colon put
+Encoding 059 /semicolon put
+Encoding 060 /less put
+Encoding 061 /equal put
+Encoding 062 /greater put
+Encoding 063 /question put
+Encoding 064 /at put
+Encoding 091 /lbracke put
+Encoding 092 /bkslash put
+Encoding 093 /rbracke put
+Encoding 094 /acircum put
+Encoding 095 /underscore put
+Encoding 123 /lbrace put
+Encoding 124 /bar put
+Encoding 125 /rbrace put
+Encoding 126 /tilde put
+Encoding 163 /sterling put
+Encoding 96  /alef put
+Encoding 97  /bet put
+Encoding 98  /gimel put
+Encoding 99  /dalet put
+Encoding 100 /he put
+Encoding 101 /vav put
+Encoding 102 /zayin put
+Encoding 103 /het put
+Encoding 104 /tet put
+Encoding 105 /yod put
+Encoding 106 /kafs put
+Encoding 107 /kaf put
+Encoding 108 /lamed put
+Encoding 109 /mems put
+Encoding 110 /mem put
+Encoding 111 /nuns put
+Encoding 112 /nun put
+Encoding 113 /samekh put
+Encoding 114 /ayin put
+Encoding 115 /pes put
+Encoding 116 /pe put
+Encoding 117 /sades put
+Encoding 118 /sade put
+Encoding 119 /kof put
+Encoding 120 /resh put
+Encoding 121 /shin put
+Encoding 122 /tav put
+Metrics begin
+/.notdef [000 000 000 000 000 000] def
+/space [100 000 78 103 78 103] def
+/exclam [115 000 34 -10 74 197] def
+/quotedbl [149 000 28 170 125 235] def
+/numsgn [141 000 23 13 118 156] def
+/dolar [180 000 39 -12 135 162] def
+/percent [199 000 9 -12 209 162] def
+/ampersand [203 000 18 -11 193 171] def
+/quote [103 000 27 172 77 237] def
+/lpar [103 000 13 -9 77 179] def
+/rpar [105 000 31 -14 95 174] def
+/asterisk [143 000 24 66 115 156] def
+/plus [210 000 21 -5 193 171] def
+/comma [088 000 5 -49 67 22] def
+/hyphen [212 000 24 79 187 99] def
+/period [084 000 23 -8 59 27] def
+/slash [162 000 27 -30 130 206] def
+/zero [180 000 21 -5 163 170] def
+/one [180 000 45 0 110 176] def
+/two [180 000 34 0 158 178] def
+/three [180 000 25 -17 162 182] def
+/four [180 000 24 0 164 176] def
+/five [180 000 21 -35 173 176] def
+/six [180 000 17 -10 168 184] def
+/seven [180 000 25 0 148 176] def
+/eight [180 000 6 -9 167 183] def
+/nine [180 000 18 -15 169 179] def
+/colon [074 000 14 17 49 159] def
+/semicolon [095 000 5 -49 67 140] def
+/less [142 000 20 31 117 125] def
+/equal [222 000 23 50 197 121] def
+/greater [140 000 20 31 117 125] def
+/question [169 000 30 -26 164 185] def
+/at [242 000 37 -46 220 142] def
+/lbracke [100 000 24 -31 77 205] def
+/bkslash [137 000 15 -27 118 209] def
+/rbracke [100 000 22 -33 75 203] def
+/acircum [113 000 16 139 94 222] def
+/underscore [293 000 1 -38 295 -13] def
+/lbrace [112 000 25 -8 96 178] def
+/bar [048 000 16 -55 34 241] def
+/rbrace [112 000 23 -5 95 181] def
+/tilde [156 000 21 125 137 160] def
+/sterling [144 000 12 -10 135 179] def
+/alef [196 000 12 0 186 176] def
+/bet [180 000 20 0 162 176] def
+/gimel [124 000 18 -8 112 176] def
+/dalet [181 000 20 0 162 176] def
+/he [186 000 24 0 164 176] def
+/vav [075 000 23 -1 53 175] def
+/zayin [130 000 20 0 110 176] def
+/het [196 000 23 0 173 176] def
+/tet [215 000 24 -12 211 198] def
+/yod [077 000 25 67 55 176] def
+/kafs [163 000 20 -54 140 176] def
+/kaf [180 000 20 0 165 176] def
+/lamed [170 000 20 0 150 236] def
+/mems [197 000 25 0 175 176] def
+/mem [218 000 20 -28 217 204] def
+/nuns [077 000 25 -55 55 176] def
+/nun [123 000 20 0 100 176] def
+/samekh [200 000 20 -10 186 176] def
+/ayin [190 000 18 -36 170 176] def
+/pes [183 000 20 -55 160 176] def
+/pe [200 000 20 -1 185 176] def
+/sades [190 000 20 -55 170 176] def
+/sade [189 000 20 0 170 176] def
+/kof [204 000 25 -55 185 176] def
+/resh [162 000 20 0 140 176] def
+/shin [236 000 23 -10 220 176] def
+/tav [224 000 20 -23 200 176] def
+end % Of Metrics
+CharStrings begin
+/part_02
+(
+%>152 123 moveto
+0 45 -15 54 -56 53 rcurveto
+)def
+/part_04
+(
+%>194 121 moveto
+0 40 -5 52 -43 53 rcurveto
+)def
+/part_06
+(
+%>100 202 moveto
+50 0 70 -20 70 -70 rcurveto
+)def
+/part_08
+(
+%>92 183 moveto
+45 0 60 -15 60 -60 rcurveto
+)def
+%%% end of Parts
+/.notdef
+( newpath 1000 1000 moveto closepath )def
+/space
+(
+newpath
+78 103 moveto
+closepath
+)def
+/exclam
+(
+newpath
+36 -10 moveto
+36 25 lineto
+71 25 lineto
+71 -10 lineto
+36 -10 lineto
+40 43 moveto
+34 197 lineto
+74 197 lineto
+67 43 lineto
+40 43 lineto
+closepath
+)def
+/quotedbl
+(
+newpath
+28 170 moveto
+47 235 lineto
+78 235 lineto
+45 170 lineto
+28 170 lineto
+75 170 moveto
+95 235 lineto
+125 235 lineto
+93 170 lineto
+75 170 lineto
+closepath
+)def
+/numsgn
+(
+newpath
+55 156 moveto
+49 112 lineto
+30 112 lineto
+29 104 lineto
+49 104 lineto
+45 65 lineto
+24 65 lineto
+23 56 lineto
+43 56 lineto
+38 14 lineto
+47 13 lineto
+53 56 lineto
+79 56 lineto
+74 14 lineto
+83 13 lineto
+89 56 lineto
+111 56 lineto
+111 65 lineto
+90 65 lineto
+94 103 lineto
+116 103 lineto
+118 113 lineto
+96 113 lineto
+101 156 lineto
+92 156 lineto
+87 112 lineto
+59 112 lineto
+66 156 lineto
+55 156 lineto
+58 104 moveto
+85 104 lineto
+80 65 lineto
+55 65 lineto
+58 104 lineto
+closepath
+)def
+/dolar
+(
+newpath
+44 52 moveto
+48 52 lineto
+54 25 70 15 88 15 curveto
+100 15 110 23 110 36 curveto
+110 45 106 52 69 74 curveto
+52 84 39 105 39 114 curveto
+39 135 53 145 82 150 curveto
+87 150 106 146 123 138 curveto
+123 109 lineto
+118 109 lineto
+112 132 106 137 89 142 curveto
+76 146 60 137 60 123 curveto
+60 113 62 116 108 84 curveto
+124 74 135 62 132 49 curveto
+127 19 116 12 87 7 curveto
+76 7 50 15 44 18 curveto
+44 52 lineto
+78 -12 moveto
+78 162 lineto
+91 162 lineto
+91 -12 lineto
+78 -12 lineto
+closepath
+)def
+/percent
+(
+newpath
+138 162 moveto
+122 141 101 138 89 143 curveto
+59 155 71 158 49 152 curveto
+16 141 9 115 14 85 curveto
+17 61 39 47 71 72 curveto
+91 89 89 105 89 136 curveto
+90 136 lineto
+102 133 115 136 130 144 curveto
+54 -12 lineto
+66 -12 lineto
+151 162 lineto
+138 162 lineto
+67 144 moveto
+67 144 81 138 82 138 curveto
+82 137 lineto
+89 113 83 75 48 70 curveto
+25 67 23 99 48 133 curveto
+56 143 58 148 67 144 curveto
+165 89 moveto
+194 83 209 48 168 6 curveto
+156 -7 121 -3 113 16 curveto
+105 35 121 61 138 78 curveto
+143 83 155 89 165 89 curveto
+167 77 moveto
+143 78 130 52 130 23 curveto
+130 7 143 1 158 7 curveto
+177 19 188 44 181 66 curveto
+179 71 172 76 167 77 curveto
+closepath
+)def
+/ampersand
+(
+newpath
+188 25 moveto
+168 8 150 6 127 33 curveto
+109 56 78 137 78 139 curveto
+78 164 110 164 116 139 curveto
+121 123 108 110 80 98 curveto
+36 79 18 63 18 33 curveto
+18 6 40 -9 80 0 curveto
+96 3 121 19 146 57 curveto
+170 93 166 92 177 93 curveto
+182 93 lineto
+184 99 lineto
+132 99 lineto
+132 97 lineto
+142 96 151 90 144 74 curveto
+133 51 88 11 73 11 curveto
+54 11 37 33 40 48 curveto
+43 63 51 79 96 96 curveto
+123 107 146 127 127 150 curveto
+110 171 76 168 64 146 curveto
+52 127 58 103 73 77 curveto
+92 42 108 17 132 1 curveto
+150 -11 170 -10 193 20 curveto
+188 25 lineto
+closepath
+)def
+/quote
+(
+newpath
+27 172 moveto
+46 237 lineto
+77 237 lineto
+45 172 lineto
+27 172 lineto
+closepath
+)def
+/lpar
+(
+newpath
+77 179 moveto
+16 147 13 86 33 36 curveto
+41 14 64 -1 77 -9 curveto
+77 -3 lineto
+62 6 56 13 51 29 curveto
+45 45 45 98 49 131 curveto
+53 154 61 163 77 171 curveto
+77 179 lineto
+closepath
+)def
+/rpar
+(
+newpath
+31 174 moveto
+92 142 95 81 75 31 curveto
+66 9 45 -6 31 -14 curveto
+31 -8 lineto
+45 1 51 8 57 24 curveto
+63 40 63 93 58 126 curveto
+56 149 46 158 31 166 curveto
+31 174 lineto
+closepath
+)def
+/asterisk
+(
+newpath
+52 66 moveto
+36 78 lineto
+52 103 lineto
+24 113 lineto
+30 132 lineto
+58 124 lineto
+59 156 lineto
+80 156 lineto
+81 124 lineto
+109 132 lineto
+115 113 lineto
+87 103 lineto
+104 78 lineto
+87 66 lineto
+70 90 lineto
+52 66 lineto
+closepath
+)def
+/plus
+(
+newpath
+98 -5 moveto
+98 71 lineto
+21 71 lineto
+21 92 lineto
+98 92 lineto
+98 171 lineto
+116 171 lineto
+116 92 lineto
+193 92 lineto
+193 71 lineto
+116 71 lineto
+116 -5 lineto
+98 -5 lineto
+closepath
+)def
+/comma
+(
+newpath
+5 -49 moveto
+30 22 lineto
+67 22 lineto
+30 -49 lineto
+5 -49 lineto
+closepath
+)def
+/hyphen
+(
+newpath
+24 79 moveto
+24 99 lineto
+187 99 lineto
+187 79 lineto
+24 79 lineto
+closepath
+)def
+/period
+(
+newpath
+23 -8 moveto
+23 27 lineto
+59 27 lineto
+59 -8 lineto
+23 -8 lineto
+closepath
+)def
+/slash
+(
+newpath
+27 -30 moveto
+105 206 lineto
+130 206 lineto
+52 -30 lineto
+27 -30 lineto
+closepath
+)def
+/zero
+(
+newpath
+21 81 moveto
+21 127 58 170 93 170 curveto
+130 170 163 127 163 81 curveto
+163 38 130 -5 91 -5 curveto
+58 -5 21 38 21 81 curveto
+48 82 moveto
+48 54 71 27 92 27 curveto
+116 27 137 54 137 82 curveto
+137 110 116 137 93 137 curveto
+71 137 48 110 48 82 curveto
+closepath
+)def
+/one
+(
+newpath
+80 0 moveto
+80 138 lineto
+74 131 60 122 45 115 curveto
+45 146 lineto
+56 151 74 162 80 176 curveto
+110 176 lineto
+110 0 lineto
+80 0 lineto
+closepath
+)def
+/two
+(
+newpath
+36 0 moveto
+36 30 lineto
+79 56 124 96 124 120 curveto
+124 154 74 156 66 118 curveto
+34 118 lineto
+35 158 70 178 105 173 curveto
+139 169 158 145 157 120 curveto
+157 89 135 69 81 28 curveto
+156 28 lineto
+156 0 lineto
+36 0 lineto
+closepath
+)def
+/three
+(
+newpath
+29 126 moveto
+31 165 65 182 108 176 curveto
+132 172 154 151 149 122 curveto
+147 107 135 95 113 90 curveto
+135 84 146 76 152 59 curveto
+162 32 148 15 124 2 curveto
+84 -17 28 -5 25 51 curveto
+60 51 lineto
+63 14 99 12 117 31 curveto
+136 55 110 75 73 76 curveto
+73 100 lineto
+114 101 125 124 112 141 curveto
+99 157 67 159 62 126 curveto
+29 126 lineto
+closepath
+)def
+/four
+(
+newpath
+114 0 moveto
+144 0 lineto
+144 43 lineto
+164 43 lineto
+164 70 lineto
+144 70 lineto
+144 176 lineto
+114 176 lineto
+24 70 lineto
+24 43 lineto
+114 43 lineto
+114 0 lineto
+114 70 moveto
+59 70 lineto
+114 135 lineto
+114 70 lineto
+closepath
+)def
+/five
+(
+newpath
+58 71 moveto
+24 71 lineto
+29 176 lineto
+147 176 lineto
+147 145 lineto
+60 145 lineto
+59 101 lineto
+110 139 173 99 151 35 curveto
+125 -35 25 -22 21 44 curveto
+55 44 lineto
+63 12 115 7 120 52 curveto
+124 93 80 99 58 71 curveto
+closepath
+)def
+/six
+(
+newpath
+154 121 moveto
+123 121 lineto
+112 161 60 155 57 91 curveto
+83 116 111 115 132 101 curveto
+168 75 165 30 132 6 curveto
+111 -10 80 -8 61 0 curveto
+17 24 19 139 61 162 curveto
+94 184 153 177 154 121 curveto
+133 54 moveto
+131 75 113 90 93 86 curveto
+78 82 61 72 61 51 curveto
+60 35 74 18 88 18 curveto
+110 16 130 29 133 54 curveto
+closepath
+)def
+/seven
+(
+newpath
+50 0 moveto
+113 149 lineto
+25 149 lineto
+25 176 lineto
+148 176 lineto
+148 149 lineto
+88 0 lineto
+50 0 lineto
+closepath
+)def
+/eight
+(
+newpath
+63 87 moveto
+25 97 15 126 37 151 curveto
+58 183 122 183 147 147 curveto
+162 127 156 104 120 87 curveto
+164 73 167 36 139 12 curveto
+116 -9 60 -6 40 13 curveto
+14 32 6 70 63 87 curveto
+90 109 moveto
+149 110 139 149 90 149 curveto
+44 149 32 115 90 109 curveto
+90 24 moveto
+154 29 136 69 96 68 curveto
+44 74 24 23 90 24 curveto
+closepath
+)def
+/nine
+(
+newpath
+32 48 moveto
+63 48 lineto
+74 8 126 14 129 78 curveto
+103 53 75 54 54 68 curveto
+18 94 21 139 54 163 curveto
+75 179 106 177 125 169 curveto
+169 145 167 30 125 7 curveto
+92 -15 33 -8 32 48 curveto
+53 115 moveto
+55 94 73 79 93 83 curveto
+108 87 125 97 125 118 curveto
+126 134 112 151 98 151 curveto
+76 153 56 140 53 115 curveto
+closepath
+)def
+/colon
+(
+newpath
+14 17 moveto
+14 53 lineto
+49 53 lineto
+49 17 lineto
+14 17 lineto
+14 124 moveto
+14 159 lineto
+49 159 lineto
+49 124 lineto
+14 124 lineto
+closepath
+)def
+/semicolon
+(
+newpath
+5 -49 moveto
+30 22 lineto
+67 22 lineto
+30 -49 lineto
+5 -49 lineto
+30 105 moveto
+30 140 lineto
+65 140 lineto
+65 105 lineto
+30 105 lineto
+closepath
+)def
+/less
+(
+newpath
+117 31 moveto
+117 47 lineto
+39 78 lineto
+117 108 lineto
+117 125 lineto
+20 87 lineto
+20 69 lineto
+117 31 lineto
+closepath
+)def
+/equal
+(
+newpath
+23 50 moveto
+23 69 lineto
+197 69 lineto
+197 50 lineto
+23 50 lineto
+23 101 moveto
+23 121 lineto
+197 121 lineto
+197 101 lineto
+23 101 lineto
+closepath
+)def
+/greater
+(
+newpath
+20 31 moveto
+20 47 lineto
+99 78 lineto
+20 108 lineto
+20 125 lineto
+117 87 lineto
+117 69 lineto
+20 31 lineto
+closepath
+)def
+/question
+(
+newpath
+30 120 moveto
+60 120 lineto
+60 166 123 156 114 127 curveto
+91 89 72 116 60 62 curveto
+60 30 lineto
+90 30 lineto
+89 65 80 76 119 95 curveto
+142 111 164 137 126 169 curveto
+89 185 30 178 30 120 curveto
+55 10 moveto
+94 10 lineto
+94 -26 lineto
+55 -26 lineto
+55 10 lineto
+closepath
+)def
+/at
+(
+newpath
+174 -31 moveto
+95 -46 56 -22 41 24 curveto
+37 59 48 99 94 122 curveto
+134 142 183 126 201 99 curveto
+216 76 220 36 190 11 curveto
+170 -5 153 -7 145 12 curveto
+144 19 lineto
+142 18 lineto
+130 -1 101 -10 87 19 curveto
+82 28 82 46 97 68 curveto
+111 91 141 99 151 83 curveto
+155 79 lineto
+157 88 lineto
+180 88 lineto
+163 18 lineto
+163 5 176 6 189 20 curveto
+207 38 206 73 193 94 curveto
+180 118 155 126 133 120 curveto
+99 110 78 92 72 69 curveto
+59 26 69 -6 95 -20 curveto
+118 -33 148 -35 171 -23 curveto
+174 -31 lineto
+119 11 moveto
+129 8 138 16 145 49 curveto
+150 74 150 81 137 80 curveto
+129 79 118 56 116 45 curveto
+112 17 116 9 119 11 curveto
+closepath
+)def
+/lbracke
+(
+newpath
+24 -31 moveto
+24 205 lineto
+77 205 lineto
+77 184 lineto
+49 184 lineto
+49 -11 lineto
+77 -11 lineto
+77 -31 lineto
+24 -31 lineto
+closepath
+)def
+/bkslash
+(
+newpath
+93 -27 moveto
+15 209 lineto
+40 209 lineto
+118 -27 lineto
+93 -27 lineto
+closepath
+)def
+/rbracke
+(
+newpath
+22 -33 moveto
+22 -13 lineto
+50 -13 lineto
+50 182 lineto
+22 182 lineto
+22 203 lineto
+75 203 lineto
+75 -33 lineto
+22 -33 lineto
+closepath
+)def
+/acircum
+(
+newpath
+44 222 moveto
+61 222 lineto
+94 139 lineto
+78 139 lineto
+52 199 lineto
+33 139 lineto
+16 139 lineto
+44 222 lineto
+closepath
+)def
+/underscore
+(
+newpath
+1 -38 moveto
+1 -13 lineto
+295 -13 lineto
+295 -38 lineto
+1 -38 lineto
+closepath
+)def
+/lbrace
+(
+newpath
+96 178 moveto
+68 178 lineto
+56 175 51 170 51 153 curveto
+51 113 lineto
+53 98 51 87 25 87 curveto
+25 80 lineto
+50 80 54 69 54 45 curveto
+54 12 lineto
+57 -3 62 -8 71 -8 curveto
+96 -8 lineto
+96 -2 lineto
+82 -2 lineto
+74 0 72 2 70 17 curveto
+70 57 lineto
+72 71 62 73 37 84 curveto
+62 96 69 93 69 112 curveto
+69 152 lineto
+68 167 71 168 81 172 curveto
+96 172 lineto
+96 178 lineto
+closepath
+)def
+/bar
+(
+newpath
+16 -55 moveto
+16 241 lineto
+34 241 lineto
+34 -55 lineto
+16 -55 lineto
+closepath
+)def
+/rbrace
+(
+newpath
+23 181 moveto
+51 181 lineto
+64 176 66 173 66 161 curveto
+66 122 lineto
+67 100 71 96 95 91 curveto
+95 84 lineto
+71 80 66 72 68 60 curveto
+68 14 lineto
+66 0 64 -2 53 -5 curveto
+23 -5 lineto
+23 1 lineto
+41 1 lineto
+51 5 48 5 53 23 curveto
+53 58 lineto
+52 70 60 82 83 87 curveto
+55 99 51 101 51 118 curveto
+51 154 lineto
+51 168 47 173 36 175 curveto
+23 175 lineto
+23 181 lineto
+closepath
+)def
+/tilde
+(
+newpath
+31 135 moveto
+23 141 21 140 34 152 curveto
+41 160 62 159 84 148 curveto
+103 138 116 136 130 154 curveto
+137 148 lineto
+129 134 109 125 89 135 curveto
+59 150 45 149 31 135 curveto
+closepath
+)def
+/sterling
+(
+newpath
+126 43 moveto
+130 43 lineto
+123 3 110 -7 89 -3 curveto
+83 -1 49 32 42 32 curveto
+29 32 12 27 29 10 curveto
+40 -1 56 12 57 25 curveto
+59 37 53 66 50 76 curveto
+25 78 lineto
+25 96 lineto
+47 94 lineto
+39 115 42 133 53 155 curveto
+61 171 79 179 105 170 curveto
+123 162 135 146 128 132 curveto
+123 122 109 117 102 127 curveto
+99 131 96 161 91 163 curveto
+80 170 71 155 71 142 curveto
+71 142 81 110 79 94 curveto
+109 94 lineto
+109 75 lineto
+81 76 lineto
+81 48 81 82 64 13 curveto
+61 -1 48 -10 29 2 curveto
+15 9 17 24 25 35 curveto
+29 43 43 46 59 37 curveto
+86 26 113 16 126 43 curveto
+closepath
+)def
+/alef
+(
+newpath
+21 0 moveto
+17 83 30 98 62 122 curveto
+51 136 34 158 12 176 curveto
+54 176 lineto
+80 153 100 120 120 96 curveto
+128 105 133 115 140 142 curveto
+140 176 lineto
+170 176 lineto
+174 118 157 96 139 73 curveto
+156 49 174 21 186 0 curveto
+146 0 lineto
+132 28 103 70 79 101 curveto
+67 93 54 84 50 59 curveto
+50 0 lineto
+21 0 lineto
+closepath
+)def
+/bet
+(
+newpath
+20 0 moveto
+20 27 lineto
+110 27 lineto
+110 96 lineto
+fontdict /CharStrings get /part_02 get cvx exec
+20 149 lineto
+20 176 lineto
+70 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+140 27 lineto
+162 27 lineto
+162 0 lineto
+20 0 lineto
+closepath
+)def
+/gimel
+(
+newpath
+18 -8 moveto
+18 29 lineto
+52 62 67 85 70 102 curveto
+76 119 73 142 61 147 curveto
+49 149 lineto
+21 149 lineto
+21 176 lineto
+57 176 lineto
+85 176 108 164 103 76 curveto
+107 40 108 21 112 0 curveto
+81 0 lineto
+78 22 75 41 74 54 curveto
+57 29 37 6 18 -8 curveto
+closepath
+)def
+/dalet
+(
+newpath
+110 0 moveto
+110 149 lineto
+20 149 lineto
+20 176 lineto
+162 176 lineto
+162 149 lineto
+140 149 lineto
+140 0 lineto
+110 0 lineto
+closepath
+)def
+/he
+(
+newpath
+24 0 moveto
+24 102 lineto
+54 120 lineto
+54 0 lineto
+24 0 lineto
+134 0 moveto
+134 96 lineto
+fontdict /CharStrings get /part_02 get cvx exec
+24 149 lineto
+24 176 lineto
+94 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+164 0 lineto
+134 0 lineto
+closepath
+)def
+/vav
+(
+newpath
+23 -1 moveto
+23 175 lineto
+53 175 lineto
+53 -1 lineto
+23 -1 lineto
+closepath
+)def
+/zayin
+(
+newpath
+50 0 moveto
+50 84 lineto
+49 113 58 132 72 149 curveto
+20 149 lineto
+20 176 lineto
+110 176 lineto
+110 149 lineto
+100 149 lineto
+90 137 80 116 80 99 curveto
+80 0 lineto
+50 0 lineto
+closepath
+)def
+/het
+(
+newpath
+23 0 moveto
+23 176 lineto
+103 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+173 0 lineto
+143 0 lineto
+143 96 lineto
+fontdict /CharStrings get /part_04 get cvx exec
+53 149 lineto
+53 0 lineto
+23 0 lineto
+closepath
+)def
+/tet
+(
+newpath
+24 176 moveto
+54 176 lineto
+54 66 lineto
+55 11 134 2 163 65 curveto
+181 126 146 164 94 143 curveto
+94 169 lineto
+143 198 211 158 196 76 curveto
+193 40 168 0 114 -8 curveto
+73 -12 25 9 24 67 curveto
+24 176 lineto
+closepath
+)def
+/yod
+(
+newpath
+25 67 moveto
+25 176 lineto
+55 176 lineto
+55 85 lineto
+25 67 lineto
+closepath
+)def
+/kafs
+(
+newpath
+20 149 moveto
+20 176 lineto
+70 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+140 -54 lineto
+110 -54 lineto
+110 94 lineto
+112 137 98 145 62 149 curveto
+20 149 lineto
+closepath
+)def
+/kaf
+(
+newpath
+20 0 moveto
+20 27 lineto
+81 27 lineto
+114 29 131 57 131 89 curveto
+131 127 110 147 66 149 curveto
+20 149 lineto
+20 176 lineto
+73 176 lineto
+131 175 165 137 165 90 curveto
+164 39 136 2 82 0 curveto
+20 0 lineto
+closepath
+)def
+/lamed
+(
+newpath
+60 0 moveto
+120 149 lineto
+20 149 lineto
+20 236 lineto
+50 236 lineto
+50 176 lineto
+150 176 lineto
+150 149 lineto
+90 0 lineto
+60 0 lineto
+closepath
+)def
+/mems
+(
+newpath
+25 0 moveto
+25 176 lineto
+105 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+175 0 lineto
+25 0 lineto
+55 27 moveto
+145 27 lineto
+145 100 lineto
+148 136 133 151 98 149 curveto
+55 149 lineto
+55 27 lineto
+closepath
+)def
+/mem
+(
+newpath
+30 0 moveto
+45 107 38 124 32 141 curveto
+20 176 lineto
+50 176 lineto
+64 135 lineto
+101 204 172 186 193 132 curveto
+217 46 175 -28 97 0 curveto
+97 27 lineto
+130 13 170 24 171 79 curveto
+175 133 146 150 131 151 curveto
+95 160 79 127 68 81 curveto
+60 0 lineto
+30 0 lineto
+closepath
+)def
+/nuns
+(
+newpath
+25 -55 moveto
+25 176 lineto
+55 176 lineto
+55 -55 lineto
+25 -55 lineto
+closepath
+)def
+/nun
+(
+newpath
+20 0 moveto
+20 27 lineto
+70 27 lineto
+70 116 lineto
+72 136 66 148 51 149 curveto
+38 149 lineto
+20 149 lineto
+20 176 lineto
+40 176 lineto
+fontdict /CharStrings get /part_08 get cvx exec
+100 0 lineto
+20 0 lineto
+closepath
+)def
+/samekh
+(
+newpath
+20 176 moveto
+108 176 lineto
+160 174 183 142 183 88 curveto
+186 42 167 -9 103 -8 curveto
+57 -10 20 24 20 80 curveto
+20 176 lineto
+50 149 moveto
+50 80 lineto
+49 42 71 20 105 20 curveto
+137 21 158 40 154 88 curveto
+153 119 140 149 106 149 curveto
+50 149 lineto
+closepath
+)def
+/ayin
+(
+newpath
+18 -36 moveto
+18 -9 lineto
+61 10 lineto
+20 176 lineto
+50 176 lineto
+89 23 lineto
+130 46 145 67 140 176 curveto
+170 176 lineto
+170 55 159 28 108 4 curveto
+18 -36 lineto
+closepath
+)def
+/pes
+(
+newpath
+130 -55 moveto
+130 96 lineto
+131 134 117 146 89 149 curveto
+50 149 lineto
+50 112 lineto
+49 96 65 89 82 94 curveto
+82 72 lineto
+41 61 20 80 20 120 curveto
+20 176 lineto
+90 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+160 -55 lineto
+130 -55 lineto
+closepath
+)def
+/pe
+(
+newpath
+20 0 moveto
+20 27 lineto
+94 27 lineto
+142 29 159 64 147 111 curveto
+139 132 121 147 93 149 curveto
+50 149 lineto
+50 112 lineto
+49 96 65 89 82 94 curveto
+82 72 lineto
+41 61 20 80 20 120 curveto
+20 176 lineto
+111 176 lineto
+142 173 169 147 178 117 curveto
+185 100 183 74 178 57 curveto
+169 24 141 -1 110 0 curveto
+20 0 lineto
+closepath
+)def
+/sades
+(
+newpath
+80 -55 moveto
+82 86 79 93 20 176 curveto
+51 176 lineto
+63 164 87 130 97 100 curveto
+129 108 141 125 140 148 curveto
+140 176 lineto
+170 176 lineto
+170 140 lineto
+167 111 144 86 105 77 curveto
+110 50 110 22 110 -19 curveto
+110 -55 lineto
+80 -55 lineto
+closepath
+)def
+/sade
+(
+newpath
+20 0 moveto
+20 27 lineto
+130 27 lineto
+20 176 lineto
+55 176 lineto
+120 90 lineto
+132 99 146 116 140 176 curveto
+170 176 lineto
+169 113 157 89 135 69 curveto
+165 27 lineto
+165 0 lineto
+20 0 lineto
+closepath
+)def
+/kof
+(
+newpath
+25 -55 moveto
+25 90 lineto
+55 110 lineto
+55 -55 lineto
+25 -55 lineto
+25 149 moveto
+25 176 lineto
+185 176 lineto
+185 149 lineto
+125 0 lineto
+90 0 lineto
+150 149 lineto
+25 149 lineto
+closepath
+)def
+/resh
+(
+newpath
+20 149 moveto
+20 176 lineto
+70 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+140 0 lineto
+110 0 lineto
+110 93 lineto
+111 139 96 148 55 149 curveto
+20 149 lineto
+closepath
+)def
+/shin
+(
+newpath
+23 176 moveto
+53 176 lineto
+53 108 51 95 56 74 curveto
+91 78 105 95 103 130 curveto
+103 176 lineto
+133 176 lineto
+139 85 116 63 64 53 curveto
+72 32 88 20 122 20 curveto
+159 20 183 60 183 110 curveto
+183 176 lineto
+213 176 lineto
+220 36 184 -7 121 -10 curveto
+57 -6 27 28 23 104 curveto
+23 176 lineto
+closepath
+)def
+/tav
+(
+newpath
+20 -1 moveto
+20 24 lineto
+44 15 61 24 60 55 curveto
+60 149 lineto
+20 149 lineto
+20 176 lineto
+130 176 lineto
+fontdict /CharStrings get /part_06 get cvx exec
+200 0 lineto
+170 0 lineto
+170 87 lineto
+169 137 160 145 129 149 curveto
+90 149 lineto
+90 42 lineto
+89 7 64 -23 20 -1 curveto
+closepath
+)def
+end % of CharStrings
+/BuildChar {
+TelAvivBuildDict
+begin
+/char exch def
+/fontdict exch def
+/charname fontdict /Encoding get
+char get def
+/charproc fontdict /CharStrings get
+charname get def
+gsave
+0.2 setflat
+0.2 setlinewidth
+fontdict /Metrics get charname get /scarr exch def
+scarr type /arraytype eq {
+	scarr 0 get 14 add
+	scarr 1 get
+	scarr 2 get
+	scarr 3 get
+	scarr 4 get 7 add
+	scarr 5 get
+}
+{
+	scarr 0.3 mul
+	0
+	fontdict /FontBBox get aload pop
+} ifelse
+setcachedevice
+charproc cvx exec 
+fontdict /PaintType get
+0 eq
+{fill}
+{stroke} ifelse
+grestore
+end
+}def
+end
+/Tlv TelAvivFont definefont pop
+(Tlv loaded\n) print flush

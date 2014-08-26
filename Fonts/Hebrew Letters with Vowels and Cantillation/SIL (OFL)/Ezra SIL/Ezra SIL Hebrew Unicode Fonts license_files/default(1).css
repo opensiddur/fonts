@@ -1,0 +1,558 @@
+/* New master CSS
+
+Author: Peter Martin
+Date:	2003-02-13
+
+*/
+
+BODY {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-style: normal;
+   line-height: 130%;
+/*   color: #000000;*/
+/*   margin: 15px;*/
+   background-color: #FFFFFF;
+/*   background-repeat: no-repeat;*/
+   Xmargin: 0;
+   }
+
+p.SectionHeading {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 16pt; /**IE5M**/
+   font-weight: bold;
+   letter-spacing: -1;
+   word-spacing: 0;
+   color: #666666;
+   border-bottom: 1px solid #666666;
+   margin: 2.5em 0 1.5em 0;
+   line-height: 130%
+   }
+
+H1 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 16pt; /**IE5M**/
+   font-weight: bold;
+   letter-spacing: -1;
+   word-spacing: 0;
+   color: #666666;
+   margin: 1.5em 0 0.9em 0;
+   line-height: 130%
+   }
+
+.item_subtitle {
+   font-weight: normal;
+   }
+
+H2 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 13pt; /**IE5M**/
+   font-weight: bold;
+   color: #666666;
+   margin: 2.3em 0 0.6em 0;
+   padding-bottom: 4px;
+   border-bottom: 1px solid #DDDDDD;
+   line-height: 130%
+   }
+
+H3 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 10pt; /**IE5M**/
+   font-weight: bold;
+   color: #666666;
+   margin: 1.4em 0 0.4em 0;
+   line-height: 130%
+   }
+
+H4 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-weight: bold;
+   color: #555555;
+   margin: 1.2em 0 0.3em 0;
+   line-height: 130%
+   }
+
+H5 {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-style: italic;
+   color: #666666;
+   margin: 0.6em 0 0em 0;
+   line-height: 130%
+   }
+
+.author_date_hits {
+   font-size: 7pt;
+   xfont-style: italic;
+   color: #555555;
+   }
+
+.ItemLeaderTitle {
+}
+
+.Runin {
+   font-weight: bold;
+}
+
+
+P, 
+TD {
+   font-family: Verdana, Arial, Helvetica, sans-serif;
+   font-size: 8pt; /**IE5M**/
+   font-style: normal;
+   color: #222222;
+   line-height: 11pt; /**IE5M**/
+   word-spacing: 0px;
+   margin: 0em 0em 0.75em 0em
+   }
+
+LI {
+   font-size: 8pt;
+	margin: 0em 0em 0.5em 0em;
+}
+
+A:link {
+   color: #0000FF;
+   text-decoration: none;
+   }
+
+A:visited {
+   color: #660099;
+   text-decoration: none;
+   }
+
+A:hover {
+   color: #FF0000;
+   text-decoration: underline
+   }
+
+A:active {
+   color: #FF0000;
+   text-decoration: none
+   }
+
+
+.Caption {
+	font-size: 7pt;
+	line-height: 9pt;
+	margin: 3px 0 6px 0;
+	}
+
+.Em {
+	font-style: italic;
+	}
+
+.Highlight {
+	background-color: #CCCCFF;
+	}
+
+.Indent {
+	margin: 0 0 0 20px;
+	}
+
+.Keyterm {
+	font-weight: bold;
+	}
+
+.SmallCaps {
+	font-size: smaller;
+	}
+
+.VarName {
+	font-style: italic;
+	}
+
+
+/****************************
+* Tables
+****************************/
+
+.Table_Default {
+	padding: 0px;
+	border-color: #FFFFFF;
+	border-spacing: 0px;
+	border: 0px;
+	padding: 0px;
+	margin: 0px 0px 0px 20px;
+}
+
+.Table_Header_Row {
+	font-weight: bold;
+	background-color: #E8E8E8;
+	border-spacing: 0px;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	padding: 3px 6px;
+	margin: 0px;
+	
+}
+
+.Table_Odd_Row {
+	border-spacing: 0px;
+	border-width: 0;
+	border-bottom:1px solid #CCCCCC;
+	background-color: #F8F8F8;
+	padding: 2px 6px;
+	vertical-align: top;
+	margin: 0px;
+}
+
+.Table_Even_Row {
+	border-spacing: 0px;
+	border-width: 0;
+	border-bottom:1px solid #CCCCCC;
+	background-color: #F0F0F0;
+	padding: 2px 6px;
+	vertical-align: top;
+	margin: 0px;
+}
+
+.Table_Total_Row {
+	font-weight: bold;
+	border-spacing: 0px;
+	border-width: 0;
+	background-color: #CCCCCC;	
+	padding: 2px 6px;
+}
+
+
+/****************************
+* Category styles
+****************************/
+
+.Cat1, .Cat1_empty {
+   font-size: 7pt;
+   font-weight: bold;
+   line-height: 120%;
+   margin: 10px 2px 0px 0px;
+   white-space:nowrap;
+   }
+
+.Cat1_empty {
+   color: #333333;
+}
+
+.Cat2, .Cat2_empty {
+   font-size: 7pt;
+   line-height: 120%;
+   margin: 0px 2px 0px 5px;
+   white-space:nowrap;
+   }
+
+.Cat2_empty {
+   color: #333333;
+}
+
+.Cat3, .Cat3_empty {
+   font-size: 7pt;
+   line-height: 120%;
+   margin: 0px 2px 0px 10px;
+   white-space:nowrap;
+   }
+
+.Cat3_empty {
+   color: #333333;
+}
+
+.Cat4, .Cat4_empty {
+   font-size: 7pt;
+   line-height: 120%;
+   margin: 0px 2px 0px 15px;
+   white-space:nowrap;
+   }
+
+.Cat4_empty {
+   color: #333333;
+}
+
+A.Cat1:link, A.Cat1:visited {
+   font-size: 7pt;
+   font-weight: bold;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+A.Cat1:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+A.Cat2:hover {
+	color: #FFFFFF;
+}
+
+A.Cat2:link, A.Cat2:visited {
+   font-size: 7pt;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+A.Cat3:link, A.Cat3:visited {
+   font-size: 7pt;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+A.Cat4:link, A.Cat4:visited {
+   font-size: 7pt;
+   color: #FFFFFF;
+   text-decoration: none;
+}
+
+
+/****************************
+Table of Contents styles
+****************************/
+
+.TOCTitle {
+   font-weight: bold;
+margin: 0;
+}
+
+.TOC1 {
+   margin: 10px 2px 0px 0px;
+}
+
+.TOC2 {
+   margin: 0px 2px 0px 15px;
+}
+
+.TOC3 {
+   margin: 0px 2px 0px 30px;
+}
+
+.TOC4 {
+   margin: 0px 2px 0px 45px;
+}
+
+
+/****************************
+Footnote styles
+****************************/
+
+.footnote_ref, .footnote_ref:link {
+	font-size: 80%;
+	font-weight: bold;
+	vertical-align: super;
+}
+
+.footnote_number {
+	font-size: 7pt;
+	vertical-align: super;
+	text-align: right;
+}
+
+.footnote_text {
+	font-size: 7pt;
+	line-height: 140%;
+	padding: 2pt;
+}
+
+.footnote_rule {
+	text-align: left;
+	align: left;
+	width: 20%;
+}
+
+/****************************
+Category Path styles
+****************************/
+
+.CategoryPath {
+	padding:0;
+   font-size: 8pt;
+}
+
+A.CategoryPath:link {
+	color: #0000FF;
+}
+
+
+.UnicodeCharName, .USV {
+	font-size: smaller;
+	}
+
+.Literal {
+	font-family: Courier, Courier New, sans-serif;
+	font-size: 8pt;
+}
+
+.Param {
+	font-family: Courier, Courier New, sans-serif;
+	font-style: italic;
+}
+
+.menu_choice {
+/*	font-style: italic;*/
+	font-weight: bold;
+}
+
+.GUI_button {
+	color: #000000;
+	font-size: smaller;
+	background-color: #C0C0C0;
+	padding: 0px 4px 0px 4px;
+	border-top: 2px solid #D0D0D0;
+	border-right: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	border-left: 2px solid #D0D0D0;
+}
+
+.key {
+	color: #000000;
+/*	font-weight: bold;*/
+	background-color: #FFFFFF;
+	border: 1px solid #808080;
+	padding: 0px 4px 0px 4px;
+}
+
+
+/****************************
+Special blocks
+****************************/
+
+.Bib_title {
+	font-style: italic;
+}
+
+.Code {
+   font-family: Courier, Courier New, sans-serif;
+   font-size: 8pt;
+/*	border:1px solid #ccc;*/
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 0 6px 0;
+}
+
+.WebForm {
+	background-color:#FBFBFB;
+	border:1px solid #DDDDDD;
+	padding:20 20 4 20;
+}
+
+
+.Message {
+   font-size: 7pt;
+	border:1px solid #cccccc;
+	background-color:#F0F0FF;
+	padding:7px;
+margin: 0 0 6px 0;
+}
+
+.Note, .Tip, .Important {
+   font-size: 7pt;
+	border:1px solid #cccccc;
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 30px 6px 30px;
+}
+
+.Caution {
+   font-size: 7pt;
+	border:1px solid #FF0000;
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 30px 6px 30px;
+}
+
+.Warning {
+   font-size: 7pt;
+	color:#FF0000;
+	border:1px solid #FF0000;
+	background-color:#F0F0F0;
+	padding:10px;
+margin: 0 30px 6px 30px;
+}
+
+.Note_heading,
+ .Tip_heading {
+	font-weight:bold;
+}
+
+.Important_heading {
+	font-size: 11pt;
+	font-weight:bold;
+}
+
+.Caution_heading {
+	font-size: 11pt;
+	font-weight:bold;
+}
+
+.Warning_heading {
+	font-size: 11pt;
+	font-weight:bold;
+	color:#FF0000;
+}
+
+.Question {
+	margin-top: 30px;
+/*	border-top:2px solid #B0B0B0;*/
+	border-left:0px solid #CCCCCC; /* A border-left setting > 0 causes outdenting after the answer, in IE Win */
+	padding:10px;
+	background-color: #D0D0D0;
+	color:black;
+	font-weight:bold;
+}
+
+.QuestionFirstWord {
+	color: #660000;
+}
+
+.Question:first-line {
+	font-weight:bold;
+}
+
+
+.Answer {
+	margin-left: 0px;
+	margin-bottom: 40px;
+	padding:10px;
+/*	background-color: #EEEEEE;*/
+	border:1px solid #D0D0D0;
+	color:black;
+}
+
+.AnswerFirstWord {
+	color: #000066;
+	font-weight:bold;
+}
+
+.Answer:first-line {
+	xfont-weight:bold;
+}
+
+.Sidebar, .SidebarPeers, .SidebarRelated {
+	width:200px;
+	border:1px solid #336699;
+	padding:10px;
+	color:black;
+	background-color:#F8F8F8;
+	xposition: relative;
+	margin:5px 20px 5px 0px;
+	float: left;
+	clear: left;
+}
+.Sidebar {
+	margin:5px 0px 5px 30px;
+	float: right;
+	clear: right;
+}
+
+.callout_container {
+	border: 1px solid #DDDDDD;
+	background-color: #EEEEEE;
+	margin: 10px 10px 10px 0px;	/* Outside the callout border */
+	padding: 10px;				/* Within the callout */
+	width: 200px				/* Overall width of callout */
+}
+
+.callout_container > p {		/* For any <p> contained in a .callout_container */
+	font-size: 14pt;
+	color: #999999;
+	font-weight: bold;
+	line-height: 120%;
+	margin: 0;
+	padding: 0;
+}

@@ -1,0 +1,6 @@
+1. Fonts installation
+=====================
+
+Simply copy the font files from the "fonts" directory to the
+system font directory "C:\Windows\Fonts" 
+

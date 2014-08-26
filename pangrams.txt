@@ -1,0 +1,28 @@
+﻿In a pangram, each letter occurs exactly once. Here are a collection of Hebrew pangrams you might use while testing these fonts.
+
+שפן אכל קצת גזר בטעם חסה, ודי
+English translation: A rabbit ate some lettuce flavored carrot, and that's it.
+
+In Hebrew, there are 5 letters with a final form, different than its normal form. These pangrams contain all letters + the 5 final forms:
+
+איך נטוס עם גד כץ, הזקן שמחלף בצרפת?
+English translation: How will we fly with Gad Katz, the old person who is replaced in France?
+
+עטלף אבק נס דרך מזגן שהתפוצץ כי חם
+English translation: A dust bat ran away through an air conditioner which exploded because it's hot.
+
+דג סקרן שט בים מאוכזב ולפתע מצא חברה
+English translation: A curious fish sailed the sea disappointedly, and suddenly found company.
+		
+כך התרסק נפץ על גוזל קטן, שדחף את צבי למים
+English translation: An explosive crashed into a small chick, which pushed my turtle into the water. 
+
+
+Pangrams in the Torah
+
+או הנסה אלהים, לבוא לקחת לו גוי מקרב גוי, במסת באתת ובמופתים ובמלחמה וביד חזקה ובזרוע נטויה, ובמוראים גדלים: ככל אשר-עשה לכם יהוה אלהיכם, במצרים—לעיניך (Deuteronomy 4:34)
+English translation (from JPS 1917): Or hath God assayed to go and take Him a nation from the midst of another nation, by trials, by signs, and by wonders, and by war, and by a mighty hand, and by an outstretched arm, and by great terrors, according to all that YHVH your God did for you in Egypt before thine eyes?
+
+The only verse in the Hebrew Bible that contains all medial forms of the letters plus all final forms:
+לכן חכו לי נאם יהוה ליום קומי לעד, כי משפטי לאסף גוים לקבצי ממלכות, לשפך עליהם זעמי כל חרון אפי, כי באש קנאתי תאכל כל הארץ (Zephaniah 3:8)
+English translation (from JPS 1917): Therefore wait ye for Me, saith YHVH, Until the day that I rise up to the prey; For My determination is to gather the nations, That I may assemble the kingdoms, To pour upon them Mine indignation, Even all My fierce anger; For all the earth shall be devoured With the fire of My jealousy.

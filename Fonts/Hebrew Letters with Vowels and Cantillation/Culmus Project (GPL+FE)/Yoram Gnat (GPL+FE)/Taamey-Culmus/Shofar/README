@@ -1,0 +1,42 @@
+Although Shofar" was inspired by the Koren font it has a redesigned
+letter forms and height to width ratio. Since the letter forms are based on
+ancient, probably Karaitic, Hebrew scripts, I based the design the 
+cantillation marks on the ancient forms (like those found in Alleppo
+and Leningrad codices). 
+Yoram Gnat
+
+The fontforge sources are in the SFD folder. The fonts
+themselves, in .ttf format, are in the TTF folders.
+
+The "Shofar" Regular and RegularOblique variants supports positioning
+of Hebrew vowel signs (Niqud)and Cantillation marks (Taamim). This includes
+recognition and correct positioning of "Patah Ganuv" (furtive patah‏) and
+corect positioning of "Holam" before "Alef shoteqet". In the Bold
+variants the cantillation marks (Taamim) were made transparent, thus text
+including them should still be displayed with proper positioning
+of the niqud.
+
+The Samples folder includes the following files 
+test.pdf                  -  Shows some special cases of mark positioning
+Bereshit.pdf              -  Genesis chapter 1 written with the Regular variant.
+Tehilim.pdf               -  Psalms chapter 1 written with the RegularOblique
+                             variant.
+
+To correctly display text with cantillation marks one should keep the following
+typing order:
+
+    Base Letter (consonant)
+    Shin/Sin dot
+    Dagesh/Rafe
+    Niqud (vowel sign)
+    Lower cantillation marks
+    Upper cantillatio marks.
+
+See the file test.pdf for the treatment of meteg (siluq).
+
+Of course you will need a keyboard map that supports cantillation marks.
+The Tiro keyboard available at
+http://www.sbl-site.org/educational/BiblicalFonts_SBLHebrew.aspx
+can be used for Windows and OS/X. A keyboard layout based on Tiro
+is available in most Linux distributions.
+

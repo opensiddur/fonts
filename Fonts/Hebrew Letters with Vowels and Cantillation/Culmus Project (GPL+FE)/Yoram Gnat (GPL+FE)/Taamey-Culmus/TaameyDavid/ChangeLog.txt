@@ -1,0 +1,34 @@
+02/09/10
+1  Name changed from "DavidYG" to "Taamey David CLM"
+2. Some small bugs fixed.
+3. Version changed to 0.110
+
+10/09/09
+1. Initial Version 0.103yg. This includes Bold and BoldItalic versions of the 
+   font.
+2. The Cantillation Mark Layout logic (Copyright (c) 2003 & 2007, Ralph Hancock
+   & John Hudson.) was completely re-implemented and should now properly
+   position both vowels and "Taamim" in most cases.
+3. The Bold versions of the font will not display the cantillation marks
+   (not enough place above and under letters) but existence of the marks
+   in the text will not cause any disorder. The text will be displayed with
+   the vowel marks (and meteg) properly positioned.
+
+29/11/08
+1. Version 0.102-02 released. This includes the DavidMedium-Italic font.
+2. Changes in positioning of marks under narrow letters were required in the
+   Italic font. Those were generalized and added to the DavidMedium as well
+   to keep the programing unified
+
+23/11/08
+1. "Hataf" mark added to all consonants. There are cases in biblical texts 
+    where hataf appears under non guttural consonants
+2.  The "wide" tenua marks - segol, tsere, patah, qamats were made smaller
+    (in x direction) to allow cases where three marks (usually yetiv or dehi, 
+    then tenua and finally meteg) appear under narrow letters - gimel, vav,
+    zayin, yod, nun.
+
+9/11/08
+1. Initial version of DavidMedium. This is the DavidCLM Medium V0.102 from
+   Culmus, with cantillation marks and relevant programming added.
+   
