@@ -21,13 +21,13 @@ FONTS INCLUDED WITHIN THIS FONT PACK
     David CLM, Dorian CLM, FrankRuehl CLM, Frank CurledLamed CLM, Hadasim CLM, Miriam CLM, Nachlieli CLM, Simple CLM (v.0.12 by Maxim Iorsh, Culmus Project)
     Shmulik CLM and Makabi YG (by Yoram Gnat, Culmus Project)
     Shuneet (v2.1 by Cunliffe Thompson)
-    XITS (designed by Khaled Hosny)
+    Open Sans (v.1.10 by Steve Matteson)
 	Alef (by HaGilda)
 	Linux Libertine (by LinuxLibertine)
 	Mashkit (Yiddish typography by Refoyl Finkl)
 
 
-45 fonts (not intended for use with niqud)
+50 fonts (not intended for use with niqud)
 
     Sofer Stam Ashkenaz, Sofer Stam Sefarad, and 16 Ancient Hebrew, Aramaic, and proto-Canaanite Semitic Scripts (by Yoram Gnat, Culmus Project)
     Drugulin CLM, Aharoni CLM, Miriam Mono CLM, Yehuda CLM, Ellinia CLM, Journal CLM (v.0.12 by Maxim Iorsh, Culmus Project)
@@ -37,6 +37,9 @@ FONTS INCLUDED WITHIN THIS FONT PACK
     Asakim, Dragon, Nehama, and Paskol (by Printer Killer)
     FreeMono, FreeSans, and FreeSerif (by the GNU FreeFont Project)
 	Pfennig (by David Johnson)
+	Felix007 (by Felix Wasserstein)
+	OSP Le Patin Helvète (by Ludivine Loiseau)
+	Noot, Carmelit, and Ptil (by Amos Jerbi)
 
 	
 10 Non-Hebrew Fonts for 
@@ -60,4 +63,23 @@ KEYBOARD LAYOUTS INCLUDED WITHIN THIS FONT PACK
 Look in the directory named "Keyboard Layouts."
 
 Biblical (Tiro) Layouts for Microsoft Windows operating systems, and for Apple OS X. 
+
+
+KNOWN ISSUES
+
+In OS X 10.11.14 (El Capitan), the following fonts have been shown to fail or render with errors in their diacritic positioning:
+
+Fail
+-- Shlomo 
+-- Shlomo Stam
+
+Positioning Errors
+-- David CLM
+-- Dorian CLM and Dorian CLM Italic
+-- Frank Ruehl CLM
+-- Frank Ruehl curled Lamed
+-- Mekorot Vilna
+-- Miriam CLM
+-- Nachlieli CLM
+
 

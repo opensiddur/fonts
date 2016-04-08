@@ -1,0 +1,50 @@
+FONTLOG
+Le Patin helvète
+================
+
+
+This file provides detailed information on Le Patin helvète font software.
+This information should be distributed along with the Le Patin helvète fonts and any derivative works.
+
+Basic Font Information
+----------------------
+
+Le Patin helvète is a re-interpretation of Nimbus Sans, to which we added clogs.
+
+
+For more detailed info, see http://ospublish.constantvzw.org
+
+
+Le Patin helvète currently provides the following Unicode coverage:
+Basic Latin: 95/95 
+Latin-1 Supplement: 93/96
+Latin Extended-A: 128/128
+Latin Extended-B: 7/208
+Cyrillic: 197/256
+Latin Extended Additional 90/256
+General Punctuation: 16/107
+
+Information for Contributors
+----------------------------
+See the project website for the current trunk and the various branches:
+http://openfontlibrary.org/media/people/OSP
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+
+
+Acknowledgements
+----------------
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical
+order.)
+
+N: OSP (Harrisson, Ludi, Sebastien Sanfilippo)
+E: mail@osp.constantvzw.org
+W: http://ospublish.constantvzw.org 
+D: Open Source Publishing is a graphic design agency that uses only Free Software tools. Closely affiliated with the Brussels based digital culture foundation Constant, OSP aims to test the possibilities and realities of doing graphic design using an expanding range of Free Software tools.
+
+

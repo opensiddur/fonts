@@ -1,5 +1,25 @@
 CHANGES
 
+
+Version 1.17
+
++ Added Carmelit by Amos Jerbi
+
++ Added Noot by Amos Jerbi
+
++ Added Ptil by Amos Jerbi
+
++ Added Felix007 by Felix Wasserstein
+
++ Added OSP Le Patin Helvète by Ludivine Loiseau
+
++ Added Open Sans by Steve Matteson (Ascender Corp., Google)
+
+- Removed XITS (replaced by Open Sans)
+
++ Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.1
+
+
 Version 1.16
 
 + Added Stop Motion by Elad Mordechai Mizrahi
