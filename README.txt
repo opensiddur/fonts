@@ -6,22 +6,23 @@ To aid in the dissemination of free/libre Hebrew fonts, the Open Siddur Project 
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-11 fonts supporting the full set of diacritical marks (vowels/nikkud and cantillation/t'amim).
+12 fonts supporting the full set of diacritical marks (vowels/nikkud and cantillation/t'amim).
 
     Ezra SIL/SR (SIL v.2.51)
     Cardo (by David Perry, v.104s)
     Keter YG, Keter Aram Tsova, Taamey David, Taamey Frank, Taamey Ashkenaz, Shofar (by Yoram Gnat, Culmus Project)
 	Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
+	Open Sans (v.1.10 by Steve Matteson)
 	
 	
-17 fonts supporting niqud (w/out t'amim)
+18 fonts supporting niqud (w/out t'amim)
 
     Mekorot Vilna (Mekorot/Makor)
 	Mekorot Rashi (Mekorot/Makor, fixed and adjusted by Yoram Gnat, Culmus Project)
     David CLM, Dorian CLM, FrankRuehl CLM, Frank CurledLamed CLM, Hadasim CLM, Miriam CLM, Nachlieli CLM, Simple CLM (v.0.12 by Maxim Iorsh, Culmus Project)
     Shmulik CLM and Makabi YG (by Yoram Gnat, Culmus Project)
     Shuneet (v2.1 by Cunliffe Thompson)
-    Open Sans (v.1.10 by Steve Matteson)
+    Arimo and Tinos (by Steve Matteson)
 	Alef (by HaGilda)
 	Linux Libertine (by LinuxLibertine)
 	Mashkit (Yiddish typography by Refoyl Finkl)
