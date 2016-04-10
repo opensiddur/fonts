@@ -1,4 +1,5 @@
 *the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.17.2)
+   <http://opensiddur.org/tools/fonts/>
 
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
 
@@ -11,7 +12,8 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 12 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 -- Ezra SIL/SR (SIL v.2.51)
 -- Cardo (by David Perry, v.104s)
--- Keter YG, Keter Aram Tsova, Taamey David, Taamey Frank, Taamey Ashkenaz, Shofar (by Yoram Gnat, Culmus Project)
+-- Keter YG, Keter Aram Tsova, 
+    Taamey David, Taamey Frank, Taamey Ashkenaz, Shofar (by Yoram Gnat, Culmus Project)
 -- Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
 -- Open Sans (v.1.10 by Steve Matteson)
 	
