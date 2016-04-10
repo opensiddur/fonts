@@ -19,6 +19,12 @@ Version 1.17
 
 + Added Looks Like S'pht by Christtrekker
 
++ Added Amiri by Khaled Hosny
+
++ Added Goddessfonts by AnonMoos
+
++ Raidho Theodings by Raidho
+
 - Removed XITS (replaced by Open Sans)
 
 + Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.1
