@@ -3,6 +3,8 @@ CHANGES
 
 Version 1.17
 
++ Added Carmela by Nir Yenni
+
 + Added Carmelit by Amos Jerbi
 
 + Added Noot by Amos Jerbi
@@ -14,6 +16,8 @@ Version 1.17
 + Added OSP Le Patin Helvète by Ludivine Loiseau
 
 + Added Open Sans, Arimo, and Tinos by Steve Matteson (Ascender Corp., Google)
+
++ Added Looks Like S'pht by Christtrekker
 
 - Removed XITS (replaced by Open Sans)
 

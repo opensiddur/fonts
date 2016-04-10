@@ -6,7 +6,7 @@ To aid in the dissemination of free/libre Hebrew fonts, the Open Siddur Project 
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-12 fonts supporting the full set of diacritical marks (vowels/nikkud and cantillation/t'amim).
+12 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 
     Ezra SIL/SR (SIL v.2.51)
     Cardo (by David Perry, v.104s)
@@ -28,7 +28,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 	Mashkit (Yiddish typography by Refoyl Finkl)
 
 
-50 fonts (not intended for use with niqud)
+50+ fonts (not intended for use with niqud)
 
     Sofer Stam Ashkenaz, Sofer Stam Sefarad, and 16 Ancient Hebrew, Aramaic, and proto-Canaanite Semitic Scripts (by Yoram Gnat, Culmus Project)
     Drugulin CLM, Aharoni CLM, Miriam Mono CLM, Yehuda CLM, Ellinia CLM, Journal CLM (v.0.12 by Maxim Iorsh, Culmus Project)
@@ -40,7 +40,10 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 	Pfennig (by David Johnson)
 	Felix007 (by Felix Wasserstein)
 	OSP Le Patin Helvète (by Ludivine Loiseau)
+	Carmela by (Nir Yenni)
 	Noot, Carmelit, and Ptil (by Amos Jerbi)
+	Looks Like S'pht (by Christtrekker)
+	
 
 	
 10 Non-Hebrew Fonts for 
