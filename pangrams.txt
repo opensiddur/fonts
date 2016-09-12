@@ -3,6 +3,10 @@
 שפן אכל קצת גזר בטעם חסה, ודי
 English translation: A rabbit ate some lettuce flavored carrot, and that's it.
 
+דג סקרן שט בים מאוכזב ולפתע מצא חברה
+English translation: A curious fish sailed the sea disappointedly, and suddenly found company.
+
+
 In Hebrew, there are 5 letters with a final form, different than its normal form. These pangrams contain all letters + the 5 final forms:
 
 איך נטוס עם גד כץ, הזקן שמחלף בצרפת?
@@ -10,19 +14,28 @@ English translation: How will we fly with Gad Katz, the old person who is replac
 
 עטלף אבק נס דרך מזגן שהתפוצץ כי חם
 English translation: A dust bat ran away through an air conditioner which exploded because it's hot.
-
-דג סקרן שט בים מאוכזב ולפתע מצא חברה
-English translation: A curious fish sailed the sea disappointedly, and suddenly found company.
 		
 כך התרסק נפץ על גוזל קטן, שדחף את צבי למים
 English translation: An explosive crashed into a small chick, which pushed my turtle into the water. 
 
 
-Pangrams in the Torah
+Pangrams in the Tanakh
 
-או הנסה אלהים, לבוא לקחת לו גוי מקרב גוי, במסת באתת ובמופתים ובמלחמה וביד חזקה ובזרוע נטויה, ובמוראים גדלים: ככל אשר-עשה לכם יהוה אלהיכם, במצרים—לעיניך (Deuteronomy 4:34)
+א֣וֹ ׀ הֲנִסָּ֣ה אֱלֹקִ֗ים לָ֠בוֹא לָקַ֨חַת ל֣וֹ גוֹי֮ מִקֶּ֣רֶב גּוֹי֒ בְּמַסֹּת֩ בְּאֹתֹ֨ת וּבְמוֹפְתִ֜ים וּבְמִלְחָמָ֗ה וּבְיָ֤ד חֲזָקָה֙ וּבִזְר֣וֹעַ נְטוּיָ֔ה וּבְמוֹרָאִ֖ים גְּדֹלִ֑ים כְּ֠כֹל אֲשֶׁר־עָשָׂ֨ה לָכֶ֜ם ה֧׳ אֱלֹקֵיכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֶֽיךָ׃ (Deuteronomy 4:34)
 English translation (from JPS 1917): Or hath God assayed to go and take Him a nation from the midst of another nation, by trials, by signs, and by wonders, and by war, and by a mighty hand, and by an outstretched arm, and by great terrors, according to all that YHVH your God did for you in Egypt before thine eyes?
 
 The only verse in the Hebrew Bible that contains all medial forms of the letters plus all final forms:
-לכן חכו לי נאם יהוה ליום קומי לעד, כי משפטי לאסף גוים לקבצי ממלכות, לשפך עליהם זעמי כל חרון אפי, כי באש קנאתי תאכל כל הארץ (Zephaniah 3:8)
+לָכֵ֤ן חַכּוּ־לִי֙ נְאֻם־ה֔׳ לְי֖וֹם קוּמִ֣י לְעַ֑ד כִּ֣י מִשְׁפָּטִי֩ לֶאֱסֹ֨ף גּוֹיִ֜ם לְקָבְצִ֣י מַמְלָכ֗וֹת לִשְׁפֹּ֨ךְ עֲלֵיהֶ֤ם זַעְמִי֙ כֹּ֚ל חֲר֣וֹן אַפִּ֔י כִּ֚י בְּאֵ֣שׁ קִנְאָתִ֔י תֵּאָכֵ֖ל כָּל־הָאָֽרֶץ׃ (Zephaniah 3:8)
 English translation (from JPS 1917): Therefore wait ye for Me, saith YHVH, Until the day that I rise up to the prey; For My determination is to gather the nations, That I may assemble the kingdoms, To pour upon them Mine indignation, Even all My fierce anger; For all the earth shall be devoured With the fire of My jealousy.
+
+
+There are several tables containing the cantillation marks (t'amim) and their names according to the various cantorial traditions. (The display of these shows considerable variations. They are sometimes referred to as "zarka tables" due to their beginning with the cantillation of the zarka in some renderings.)
+
+Nusaḥ Ashkenazi
+קַדְמָ֨א מֻנַּ֣ח זַרְקָא֮ מֻנַּ֣ח סֶגּוֹל֒ מֻנַּ֣ח ׀ מֻנַּ֣ח רְבִ֗יע מַהְפַּ֤ך פַּשְׁטָא֙ זָקֵף־קָטָ֔ן זָקֵף־גָּד֕וֹל מֵרְכָ֥א טִפְּחָ֖א מֻנַּ֣ח אֶתְנַחְתָּ֑א פָּזֵ֡ר תְּלִישָא־קְטַנָּה֩ תְּ֠לִישָא גְדוֹלָה קַדְמָ֨א וְאַזְלָ֜א אַזְלָא־גֵּ֜רֵשׁ גֵּרְשַׁ֞יִם דַּרְגָּ֧א תְּבִ֛יר יְ֚תִיב פְּסִיק׀ מֵרְכָ֥א טִפְּחָ֖א מֵרְכָ֥א סוֹף פָּסֽוּק׃ שַׁלְשֶׁ֓לֶת מֵרְכָא כְּפוּלָ֦ה יֵרֶח בֶּן יוֹמ֪וֹ קַרְנֵי פָרָ֟ה׃
+ 
+Nusaḥ Sepharadi
+זַרְקָא֮ מַקַּף־שׁוֹפָר־הוֹלֵ֣ךְ סְגוֹלְתָּא֒ פָּזֵר גָּד֡וֹל תַ֠לְשָׁא תִּ֩ילְשָׁא אַזְלָ֨א גֵּ֜רֵישׁ פָּסֵק׀ רָבִ֗יעַ שְׁנֵי־גֵרֵישִׁ֞ין דַּרְגָ֧א תְּבִ֛יר מַאֲרִ֥יךְ טַרְחָ֖א אַתְנָ֑ח שׁוֹפָר־מְהֻפָּ֤ךְ קַדְמָא֙ תְּרֵ֨י־קַדְמִין֙ זָקֵף־קָט֔וֹן זָקֵף־גָּד֕וֹל שַׁלְשֶׁ֓לֶת תְּרֵי־טַעֲמֵ֦י יְ֚תִיב סוֹף־פָּסֽוּק׃ 
+ 
+Nusaḥ Italiani
+זַרְקָא֮ שְׁרֵ֒י פָּזֵ֡ר גָּדוֺל֡ קַרְ֟נֵי פָרָ֟ה תַּלְ֠שָׁא תַּרְסָא֩ גַרְמֵ֤יהּ ׀ רְבִ֗יעַ פְּ֤סִיק שַׁלְשֶׁ֓לֶת קַדְמָ֨א אַזְלָ֜א זָקֵ֕ף גָּד֕וֹל זָקֵ֔ף קָטָ֔ן שְׁנֵ֞י גְרִישִׁ֞ין תְּרֵ֦ין חוּטְרִ֦ין דַּרְגָ֧א תְּבִ֛יר טַרְחָ֖א מַאֲרִ֥יךְ שׁוֹפָ֣ר עִלּ֣וּי שׁוֹפָ֤ר הָפ֤וּךְ שׁוֹפָר יְ֚תִיב שְׁנֵ֨י פַּ֙שְׁטִין סְמִיךְ־אַתְנָ֑ח יָרֵ֪ח בֶּ֪ן יוֹמ֪וֹ גְּרִ֜ישׁ סֽוֹף פָּסֽוּק׃
