@@ -28,6 +28,19 @@ The only verse in the Hebrew Bible that contains all medial forms of the letters
 לָכֵ֤ן חַכּוּ־לִי֙ נְאֻם־ה֔׳ לְי֖וֹם קוּמִ֣י לְעַ֑ד כִּ֣י מִשְׁפָּטִי֩ לֶאֱסֹ֨ף גּוֹיִ֜ם לְקָבְצִ֣י מַמְלָכ֗וֹת לִשְׁפֹּ֨ךְ עֲלֵיהֶ֤ם זַעְמִי֙ כֹּ֚ל חֲר֣וֹן אַפִּ֔י כִּ֚י בְּאֵ֣שׁ קִנְאָתִ֔י תֵּאָכֵ֖ל כָּל־הָאָֽרֶץ׃ (Zephaniah 3:8)
 English translation (from JPS 1917): Therefore wait ye for Me, saith YHVH, Until the day that I rise up to the prey; For My determination is to gather the nations, That I may assemble the kingdoms, To pour upon them Mine indignation, Even all My fierce anger; For all the earth shall be devoured With the fire of My jealousy.
 
+We are not aware of any pangrams that also strive to contain all the niqqud however it was a common practice to include in prayerbooks a table of the alef-bet containing all the letters with their niqqud, for language instruction:
+
+אָ אֳ בָ בָּ גָ גָּ דָ דָּ הָ הָהּ וָ זָ חָ טָ יָ כָ כָּ ךָ לָ מָ נָ סָ עָ פָ פָּ צָ קָ רָ שָׁ שָׂ תָ תָּ
+אַ אֲ בַ בַּ גַ גַּ דַ דַּ הַ הַהּ וַ זַ חַ טַ יַ כַ כַּ לַ מַ נַ סַ עַ עֲ פַ פַּ צַ קַ רַ שַׁ שַׂ תַ תַּ
+אֶ אֱ בֶ בֶּ גֶ גֶּ דֶ דֶּ הֶ הֶהּ וֶ זֶ חֶ טֶ יֶ כֶ כֶּ לֶ מֶ נֶ סֶ עֶ פֶ פֶּ צֶ קֶ רֶ שֶׁ שֶׂ תֶ תֶּ
+אֵ בֵ בֵּ גֵ גֵּ דֵ דֵּ הֵ הֵהּ וֵ זֵ חֵ טֵ יֵ כֵ כֵּ לֵ מֵ נֵ סֵ עֵ פֵ פֵּ צֵ קֵ רֵ שֵׁ שֵׂ תֵ תֵּ
+אִ בִ בִּ גִ גִּ דִ דִּ הִ הִהּ וִ זִ חִ טִ יִ כִ כִּ לִ מִ נִ סִ םִ עִ פִ פִּ צִ קִ רִ שִׁ שִׂ תִ תִּ
+אְ בְ בְּ גְ גְּ דְ דְּ הְ וְ זְ חְ טְ יְ כְ כְּ ךְ לְ מְ נְ סְ עְ פְ פְּ צְ קְ רְ שְׁ שְׂ תְ תְּ
+אֻ בֻ בֻּ גֻ גֻּ דֻ דֻּ הֻ הֻהּ וֻ זֻ חֻ טֻ יֻ כֻ כֻּ לֻ מֻ נֻןסֻ עֻ פֻ פֻּ צֻ קֻ רֻ שֻׁ שֻׂ תֻ תֻּ
+אוּ בוּ בּוּ גוּ גּוּ דוּ דּוּ הוּ ווּ זוּ חוּ טוּ יוּ כוּ כּוּ לוּ מוּ נוּ סוּ עוּ פוּ פּוּ צוּ קוּ רוּ שׁוּ שׂוּ תוּ תּוּ
+אֹ בֹ בֹּ גֹ גֹּ דֹ דֹּ הֹ הֹהּ וֹ זֹ חֹ טֹ יֹ כֹ כֹּ לֹ מֹ נֹ סֹ עֹ פֹ פֹּ צֹ קֹ רֹ שֹׁ שֹׂ תֹ תֹּ
+אוֹ בוֹ בּוֹ גוֹ גּוֹ דוֹ דּוֹ הוֹ ווֹ זוֹ חוֹ טוֹ יוֹ כוֹ כּוֹ לוֹ מוֹ נוֹ סוֹ עוֹ פוֹ פּוֹ צוֹ קוֹ רוֹ שׁוֹ שׂוֹ תוֺ תּוֺ
+
 
 There are several tables containing the cantillation marks (t'amim) and their names according to the various cantorial traditions. (The display of these shows considerable variations. They are sometimes referred to as "zarka tables" due to their beginning with the cantillation of the zarka in some renderings.)
 
@@ -39,3 +52,9 @@ Nusaḥ Sepharadi
  
 Nusaḥ Italiani
 זַרְקָא֮ שְׁרֵ֒י פָּזֵ֡ר גָּדוֺל֡ קַרְ֟נֵי פָרָ֟ה תַּלְ֠שָׁא תַּרְסָא֩ גַרְמֵ֤יהּ ׀ רְבִ֗יעַ פְּ֤סִיק שַׁלְשֶׁ֓לֶת קַדְמָ֨א אַזְלָ֜א זָקֵ֕ף גָּד֕וֹל זָקֵ֔ף קָטָ֔ן שְׁנֵ֞י גְרִישִׁ֞ין תְּרֵ֦ין חוּטְרִ֦ין דַּרְגָ֧א תְּבִ֛יר טַרְחָ֖א מַאֲרִ֥יךְ שׁוֹפָ֣ר עִלּ֣וּי שׁוֹפָ֤ר הָפ֤וּךְ שׁוֹפָר יְ֚תִיב שְׁנֵ֨י פַּ֙שְׁטִין סְמִיךְ־אַתְנָ֑ח יָרֵ֪ח בֶּ֪ן יוֹמ֪וֹ גְּרִ֜ישׁ סֽוֹף פָּסֽוּק׃
+
+
+֒ ֘ ֔ ֕ ֡ ֓ ֨ ֙ ֝ ֜ ֞ ֠ ֟ ֩ ֫ ֗ ׄ ֣ ֖ ֑ ֛ ֵ ֥ ֦ ֪ ֤ ׅ
+ּ ׁ ׂ 
+ֻ ֺ ׇ ָ ֳ ַ ֲ ִ ְ ֵ ֶ ֱ 
+ֽ ֿ ֯ ׆  
