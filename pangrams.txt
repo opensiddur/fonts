@@ -30,7 +30,7 @@ English translation (from JPS 1917): Therefore wait ye for Me, saith YHVH, Until
 
 We are not aware of any pangrams that also strive to contain all the niqqud however it was a common practice to include in prayerbooks a table of the alef-bet containing all the letters with their niqqud, for language instruction:
 
-אָ אֳ בָ בָּ גָ גָּ דָ דָּ הָ הָהּ וָ זָ חָ טָ יָ כָ כָּ ךָ לָ מָ נָ סָ עָ פָ פָּ צָ קָ רָ רָּ שָׁ שָׂ תָ תָּ
+אָ אֳ אׇ בָ בָּ גָ גָּ דָ דָּ הָ הָהּ וָ זָ חָ טָ יָ כָ כָּ ךָ לָ מָ נָ סָ עָ פָ פָּ צָ קָ רָ רָּ שָׁ שָׂ תָ תָּ
 אַ אֲ בַ בַּ גַ גַּ דַ דַּ הַ הַהּ וַ זַ חַ טַ יַ כַ כַּ לַ מַ נַ סַ עַ עֲ פַ פַּ צַ קַ רַ רַּ שַׁ שַׂ תַ תַּ
 אֶ אֱ בֶ בֶּ גֶ גֶּ דֶ דֶּ הֶ הֶהּ וֶ זֶ חֶ טֶ יֶ כֶ כֶּ לֶ מֶ נֶ סֶ עֶ פֶ פֶּ צֶ קֶ רֶ רֶּ שֶׁ שֶׂ תֶ תֶּ
 אֵ בֵ בֵּ גֵ גֵּ דֵ דֵּ הֵ הֵהּ וֵ זֵ חֵ טֵ יֵ כֵ כֵּ לֵ מֵ נֵ סֵ עֵ פֵ פֵּ צֵ קֵ רֵ רֵּ שֵׁ שֵׂ תֵ תֵּ
