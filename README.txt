@@ -1,10 +1,10 @@
 *the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18)
    <http://opensiddur.org/tools/fonts/>
 
-ìUnicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the worldís writing systems.î (wikipedia)
+‚ÄúUnicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world‚Äôs writing systems.‚Äù (wikipedia)
 
 To aid in the dissemination of free/libre Hebrew fonts, the Open Siddur Project now offers, gratis, a FONT PACK. 
-80 libre and open source licensed, Unicode Hebrew fonts, ready to install. 
+90+ libre and open source licensed, Unicode Hebrew fonts, ready to install. 
 Enjoy them. Share them. Learn from them. Modify them. 
 
 FONTS INCLUDED WITHIN THIS FONT PACK
@@ -52,7 +52,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 -- FreeMono, FreeSans, and FreeSerif (by the GNU FreeFont Project)
 -- Pfennig (by David Johnson)
 -- Felix007 (by Felix Wasserstein)
--- OSP Le Patin HelvËte (by Ludivine Loiseau)
+-- OSP Le Patin Helv√®te (by Ludivine Loiseau)
 -- Carmela by (Nir Yenni)
 -- Noot, Carmelit, and Ptil (by Amos Jerbi)
 -- Looks Like S'pht (by Christtrekker)
