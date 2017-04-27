@@ -4,7 +4,7 @@ Version 1.18
 
 + Added Assistant by Ben Nathan
 
-+ Added Varela Round by Joe Prince
++ Added Varela Round by Avraham Cornfeld
 
 + Added David Libre, Heebo, and Rubik by Meir Sadan
 
@@ -16,9 +16,9 @@ Version 1.18
 
 + Added Frank Ruhl Libre by Yanek Iontef
 
-• Moved Mekorot Vilna to Letters with vowels and cantillation
+â€¢ Moved Mekorot Vilna to Letters with vowels and cantillation
 
-• Updated Periodic Table of Hebrew Letters by Aharon Varady to v. 4.2
+â€¢ Updated Periodic Table of Hebrew Letters by Aharon Varady to v. 4.2
 
 
 Version 1.17
@@ -33,7 +33,7 @@ Version 1.17
 
 + Added Felix007 by Felix Wasserstein
 
-+ Added OSP Le Patin Helvète by Ludivine Loiseau
++ Added OSP Le Patin HelvÃ¨te by Ludivine Loiseau
 
 + Added Open Sans, Arimo, and Tinos by Steve Matteson (Ascender Corp., Google)
 
