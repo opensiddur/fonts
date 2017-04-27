@@ -1,5 +1,25 @@
 CHANGES
 
+Version 1.18
+
++ Added Assistant by Ben Nathan
+
++ Added Varela Round by Joe Prince
+
++ Added David Libre, Heebo, and Rubik by Meir Sadan
+
++ Added Miriam Libre, Secular One, and Suez One by Michal Sahar
+
++ Added Cousine by Steve Matteson
+
++ Added Amatic_SC and Amatica_SC by Vernon Adams, Ben Nathan, and Thomas Jockin
+
++ Added Frank Ruhl Libre by Yanek Iontef
+
+• Moved Mekorot Vilna to Letters with vowels and cantillation
+
+• Updated Periodic Table of Hebrew Letters by Aharon Varady to v. 4.2
+
 
 Version 1.17
 

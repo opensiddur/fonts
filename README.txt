@@ -1,4 +1,4 @@
-*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.17.2)
+*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18)
    <http://opensiddur.org/tools/fonts/>
 
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
@@ -9,26 +9,34 @@ Enjoy them. Share them. Learn from them. Modify them.
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-12 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
+13 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 -- Ezra SIL/SR (SIL v.2.51)
 -- Cardo (by David Perry, v.104s)
 -- Keter YG, Keter Aram Tsova, 
     Taamey David, Taamey Frank, Taamey Ashkenaz, Shofar (by Yoram Gnat, Culmus Project)
 -- Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
 -- Open Sans (v.1.10 by Steve Matteson)
-	
-	
-18 fonts supporting niqud (w/out t'amim)
 -- Mekorot Vilna (Mekorot/Makor)
+	
+	
+30 fonts supporting niqud (w/out t'amim)
+
 -- Mekorot Rashi (Mekorot/Makor, fixed and adjusted by Yoram Gnat, Culmus Project)
 -- David CLM, Dorian CLM, FrankRuehl CLM, Frank CurledLamed CLM, 
-   Hadasim CLM, Miriam CLM, Nachlieli CLM, Simple CLM (v.0.12 by Maxim Iorsh, Culmus Project)
+    Hadasim CLM, Miriam CLM, Nachlieli CLM, Simple CLM (v.0.12 by Maxim Iorsh, Culmus Project)
 -- Shmulik CLM and Makabi YG (by Yoram Gnat, Culmus Project)
 -- Shuneet (v2.1 by Cunliffe Thompson)
 -- Arimo and Tinos (by Steve Matteson)
--- Alef (by HaGilda)
+-- Alef (by HaGilda and Mushon Zer-Aviv)
 -- Linux Libertine (by LinuxLibertine)
 -- Mashkit (Yiddish typography by Refoyl Finkl)
+-- Assistant (Ben Nathan)
+-- Varela Round (Joe Prince)
+-- David Libre, Heebo, and Rubik (Meir Sadan)
+-- Miriam Libre, Secular One, and Suez One (Michal Sahar)
+-- Frank Ruhl Libre (Yanek Iontef)
+-- Amatic SC and Amatica SC (Vernon Adams, Ben Nathan, Thomas Jockin)
+
 
 
 50+ fonts (not intended for use with niqud)
