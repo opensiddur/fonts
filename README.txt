@@ -17,7 +17,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 -- Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
 -- Mekorot Vilna (Mekorot/Makor)
 -- Open Sans (v.1.10 by Steve Matteson)
--- Nota Sans (Google)
+-- Noto Sans (Google)
 	
 	
 30 fonts supporting niqud (w/out t'amim)
