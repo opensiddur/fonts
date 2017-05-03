@@ -2,7 +2,7 @@ CHANGES
 
 Version 1.18
 
-+ Added Nota Sans by Google
++ Added Noto Sans by Google
 
 + Added Assistant by Ben Nathan
 
