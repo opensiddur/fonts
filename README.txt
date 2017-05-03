@@ -9,14 +9,15 @@ Enjoy them. Share them. Learn from them. Modify them.
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-13 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
+14 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 -- Ezra SIL/SR (SIL v.2.51)
 -- Cardo (by David Perry, v.104s)
 -- Keter YG, Keter Aram Tsova, 
     Taamey David, Taamey Frank, Taamey Ashkenaz, Shofar (by Yoram Gnat, Culmus Project)
 -- Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
--- Open Sans (v.1.10 by Steve Matteson)
 -- Mekorot Vilna (Mekorot/Makor)
+-- Open Sans (v.1.10 by Steve Matteson)
+-- Nota Sans (Google)
 	
 	
 30 fonts supporting niqud (w/out t'amim)
