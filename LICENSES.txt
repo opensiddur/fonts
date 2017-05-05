@@ -10,13 +10,20 @@ Wherever possible we have tried to retain existing documentation (License, Chang
 
 All the fonts in this font pack are free for creative reuse (as well as free-gratis, free-without-fee to download). The fonts in this font pack are being redistributed in agreement with the following licences.
 
-	GPL (GNU Public License, two flavors: version 2 <http://www.gnu.org/licenses/gpl-2.0.html>, and version 3 <http://www.gnu.org/licenses/gpl.html>.)
+	GPL 3.0 (GNU Public License version 3 <http://www.gnu.org/licenses/gpl.html>).
 	
-	GPL-FE (GNU Public License v.2 with Font Exception Clause, <http://en.wikipedia.org/wiki/GNU_GPL_font_exception>)
+	GPL-FE (GNU Public License v.2 with Font Exception Clause, <http://en.wikipedia.org/wiki/GNU_GPL_font_exception>).
 	
-	OFL (Open Font License, <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1>)
+	OFL (Open Font License, <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1>).
 	
-	LPPL (LaTeX Project Public License, <http://www.latex-project.org/lppl/>).
+	APACHE (Apache License v.2, <https://www.apache.org/licenses/LICENSE-2.0>).
+	
+	--- Legacy Free Software Foundation compatible licenses (may be incompatible with newer  licenses) --
+
+	LPPL (LaTeX Project Public License v.1.3a, <http://www.latex-project.org/lppl/>).
+	
+	GPL 2.0 (GNU Public License version 2 <http://www.gnu.org/licenses/gpl-2.0.html>).
+	
 
 See the specific license associated with the Project, Foundry, or Typographer to know more about the terms of use for that specific font.
 
