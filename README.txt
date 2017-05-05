@@ -37,7 +37,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 -- David Libre, Heebo, and Rubik (Meir Sadan)
 -- Miriam Libre, Secular One, and Suez One (Michal Sahar)
 -- Frank Ruhl Libre (Yanek Iontef)
--- Amatic SC and Amatica SC (Vernon Adams, Ben Nathan, Thomas Jockin)
+-- Amatic SC (Vernon Adams, Ben Nathan, Thomas Jockin)
 
 
 
@@ -57,6 +57,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 -- Carmela by (Nir Yenni)
 -- Noot, Carmelit, and Ptil (by Amos Jerbi)
 -- Looks Like S'pht (by Christtrekker)
+-- Amatica SC (Vernon Adams, Ben Nathan, Thomas Jockin)
 	
 	
 1 Faux-Hebrew Font
