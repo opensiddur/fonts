@@ -1,4 +1,4 @@
-*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18)
+*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18.1)
    <http://opensiddur.org/tools/fonts/>
 
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
@@ -116,23 +116,3 @@ KEYBOARD LAYOUTS INCLUDED WITHIN THIS FONT PACK
 Look in the directory named "Keyboard Layouts."
 
 Biblical (Tiro) Layouts for Microsoft Windows operating systems, and for Apple OS X. 
-
-
-KNOWN ISSUES
-
-In OS X 10.11.14 (El Capitan), the following fonts have been shown to fail or render with errors in their diacritic positioning:
-
-Fail
--- Shlomo 
--- Shlomo Stam
-
-Positioning Errors
--- David CLM
--- Dorian CLM and Dorian CLM Italic
--- Frank Ruehl CLM
--- Frank Ruehl curled Lamed
--- Mekorot Vilna
--- Miriam CLM
--- Nachlieli CLM
-
-
