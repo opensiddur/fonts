@@ -25,9 +25,7 @@ Version 1.18
 
 + Added Frank Ruhl Libre by Yanek Iontef
 
-• Moved Mekorot Vilna to Letters with vowels and cantillation
-
-• Updated Periodic Table of Hebrew Letters by Aharon Varady to v. 4.2
+• Updated Periodic Table of Hebrew Letters by Aharon Varady to v.4.2
 
 
 Version 1.17
