@@ -9,11 +9,12 @@ Enjoy them. Share them. Learn from them. Modify them.
 
 FONTS INCLUDED WITHIN THIS FONT PACK
 
-14 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
+17 fonts supporting the full set of diacritical marks (vowels/niqud and cantillation/t'amim).
 -- Ezra SIL/SR (SIL v.2.51)
 -- Cardo (by David Perry, v.104s)
--- Keter YG, Keter Aram Tsova, 
-    Taamey David, Taamey Frank, Taamey Ashkenaz, Shofar (by Yoram Gnat, Culmus Project)
+-- Keter YG, Keter Aram Tsova, Taamey David, Taamey Frank, Taamey Ashkenaz, 
+    Shofar (by Yoram Gnat, Culmus Project)
+-- Frank Ruehl CLM, Nachlieli CLM, Miriam Mono CLM (v.0.131 by Maxim Iorsh, Culmus Project)	
 -- Shlomo, ShlomoStam, and ShlomoSemiStam (by Shlomo Orbach)
 -- Mekorot Vilna (Mekorot/Makor)
 -- Open Sans (v.1.10 by Steve Matteson)
@@ -23,10 +24,10 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 30 fonts supporting niqud (w/out t'amim)
 
 -- Mekorot Rashi (Mekorot/Makor, fixed and adjusted by Yoram Gnat, Culmus Project)
--- David CLM, Dorian CLM, FrankRuehl CLM, Frank CurledLamed CLM, 
-    Hadasim CLM, Miriam CLM, Nachlieli CLM, Simple CLM (v.0.12 by Maxim Iorsh, Culmus Project)
+-- David CLM, Dorian CLM, Frank CurledLamed CLM, 
+    Hadasim CLM, Miriam CLM, Simple CLM (v.0.131 by Maxim Iorsh, Culmus Project)
 -- Shmulik CLM and Makabi YG (by Yoram Gnat, Culmus Project)
--- Shuneet (v2.1 by Cunliffe Thompson)
+-- Shuneet (v.2.1 by Cunliffe Thompson)
 -- Arimo and Tinos (by Steve Matteson)
 -- Alef (by HaGilda and Mushon Zer-Aviv)
 -- Linux Libertine (by LinuxLibertine)
@@ -43,8 +44,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 50+ fonts (not intended for use with niqud)
 -- Sofer Stam Ashkenaz, Sofer Stam Sefarad, 
     and 16 Ancient Hebrew, Aramaic, and proto-Canaanite Semitic Scripts (by Yoram Gnat, Culmus Project)
--- Drugulin CLM, Aharoni CLM, Miriam Mono CLM, 
-    Yehuda CLM, Ellinia CLM, Journal CLM (v.0.12 by Maxim Iorsh, Culmus Project)
+-- Drugulin CLM, Aharoni CLM, Yehuda CLM, Ellinia CLM, Journal CLM (v.0.12 by Maxim Iorsh, Culmus Project)
 -- Anka CLM, Comix No2 CLM, Gan CLM, Gladia CLM, 
     Hillel CLM, Ktav-Yad CLM, Ozrad CLM (Fancy Fonts by the Culmus Project)
 -- Refoyl and Nachlaot (cursive fonts by Refoyl Finkl)
