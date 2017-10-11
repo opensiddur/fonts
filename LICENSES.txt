@@ -18,6 +18,8 @@ All the fonts in this font pack are free for creative reuse (as well as free-gra
 	
 	APACHE (Apache License v.2, <https://www.apache.org/licenses/LICENSE-2.0>).
 	
+	UBL (Ubuntu Font License 1.0, <http://font.ubuntu.com/licence/>).
+	
 	--- Legacy Free Software Foundation compatible licenses (may be incompatible with newer  licenses) --
 
 	LPPL (LaTeX Project Public License v.1.3a, <http://www.latex-project.org/lppl/>).
