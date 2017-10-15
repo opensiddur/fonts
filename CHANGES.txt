@@ -6,6 +6,11 @@ Version 1.18.2
 
 + Added Sharpie by Baruch Sienna
 
+• Updated Linux Biolinum, Linux Libertine
+
+• Update to http://opensiddur.org/help/fonts
+
+
 Version 1.18.1
 
 + Added Culmus Project release update 0.131
