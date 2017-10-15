@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 LICENSES
 
 The fonts in this font pack are organized according to the following schema:

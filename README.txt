@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18.2)
    <http://opensiddur.org/tools/fonts/>
 
