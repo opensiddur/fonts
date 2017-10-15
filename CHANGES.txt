@@ -8,7 +8,7 @@ Version 1.18.2
 
 Version 1.18.1
 
-+ Added Culumus Project release update 0.131
++ Added Culmus Project release update 0.131
 
 • Moved Frank Ruehl CLM, Miriam Mono CLM, and Nachlieli CLM to Letters with vowels and cantillation
 
