@@ -1,5 +1,11 @@
 CHANGES
 
+Version 1.18.2
+
++ Added BenOr Rashi by David ben Or (Sefarađizo: Sephardic Association of Órgiva, Granada, Andalusia, Spain)
+
++ Added Sharpie by Baruch Sienna
+
 Version 1.18.1
 
 + Added Culumus Project release update 0.131

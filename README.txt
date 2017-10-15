@@ -1,4 +1,4 @@
-*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18.1)
+*the Open Siddur Project's open-source Unicode Hebrew font pack* (v.1.18.2)
    <http://opensiddur.org/tools/fonts/>
 
 “Unicode is a computing industry standard for the consistent encoding, representation and handling of text expressed in most of the world’s writing systems.” (wikipedia)
@@ -21,8 +21,9 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 -- Noto Sans (Google)
 	
 	
-30 fonts supporting niqud (w/out t'amim)
+31 fonts supporting niqud (w/out t'amim)
 
+-- BenOr Rashi (David ben Or, Sefarađizo, Sephardic Association of Órgiva, Granada, Andalusia, Spain)
 -- Mekorot Rashi (Mekorot/Makor, fixed and adjusted by Yoram Gnat, Culmus Project)
 -- David CLM, Dorian CLM, Frank CurledLamed CLM, 
     Hadasim CLM, Miriam CLM, Simple CLM (v.0.131 by Maxim Iorsh, Culmus Project)
@@ -58,6 +59,7 @@ FONTS INCLUDED WITHIN THIS FONT PACK
 -- Noot, Carmelit, and Ptil (by Amos Jerbi)
 -- Looks Like S'pht (by Christtrekker)
 -- Amatica SC (Vernon Adams, Ben Nathan, Thomas Jockin)
+-- Sharpie (Baruch Sienna)
 	
 	
 1 Faux-Hebrew Font
