@@ -8,6 +8,8 @@ Version 1.18.2
 
 • Updated Linux Biolinum, Linux Libertine
 
+• Updated GNU FreeFont (FreeSerif, FreeSans, etc.)
+
 • Update to http://opensiddur.org/help/fonts
 
 
