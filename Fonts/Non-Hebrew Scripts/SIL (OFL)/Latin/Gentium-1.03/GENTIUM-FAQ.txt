@@ -1,0 +1,205 @@
+GENTIUM-FAQ
+Gentium Release 1.03
+========================
+
+Here are some answers to frequently asked questions about the Gentium fonts:
+
+
+General
+========
+
+How do you pronounce Gentium?
+
+	The preferred pronunciation is with a soft G as in 'general', not a
+	hard one as in 'gold': JEN-tee-oom.
+
+What is GentiumAlt?
+
+	It is a version of the font with redesigned diacritics (flatter
+	ones) to make it more suitable for use with stacking diacritics, and
+	for languages such as Vietnamese. The Greek glyphs also use the
+	Porsonic (single-curve) design for the circumflex. Since Gentium
+	does not currently include any 'smart' rendering routines, there is
+	no easy way to access these alternate diacritic shapes from within
+	the regular Gentium font. The encoding of the fonts are the same, so
+	the same text can be viewed with either one. There is also no
+	problem with having both font families installed at the same time.
+
+
+Licensing
+=========
+
+How is this version of Gentium different from version 1.02?
+
+	The only difference between version 1.02 and 1.03 is that Gentium is 
+	now released under the SIL Open Font License 1.1. There has been no 
+	change to metrics, glyphs or behavior.  
+  
+I want to use Gentium in my publication - can I?
+
+	Gentium is released under the SIL Open Font License, which permits use
+	for any publication, whether electronic or printed. For more answers
+	to use questions see the OFL-FAQ. The license, alongside information
+	specific to Gentium, is in the release package.
+
+I would like to bundle Gentium with my application - can I?
+
+	This is our most common question. The SIL Open Font License allows
+	bundling with applications, even commercial ones, with some restrictions.
+	See the OFL file.
+
+Can I use the font on my web site?
+
+	You can certainly create web pages that request that Gentium be used to
+	display them (if that font is available on the user's system). According
+	to the license, you are even allowed to place the font on your site for
+	people to download it. We would strongly recommend, however, that you
+	direct users to our site to download the font. This ensures that they
+	are always using the most recent version with bug fixes, etc. To make
+	this easier, we've simplified the URL for Gentium:
+	http://scripts.sil.org/gentium
+
+Is Gentium going to stay free?
+
+	There is no intention to ever charge users for using Gentium. The
+	current version is licensed under a free/open license and future
+	versions will be similar.
+
+
+Modification
+============
+
+I would like to modify Gentium to add a couple of characters I need. Can I?
+
+	Yes - that is allowed as long as you abide by the conditions of the
+	SIL Open Font License.
+
+So will you add glyphs upon request?
+
+	Gentium is no longer being updated. Gentium Plus has been significantly 
+	updated and if further glyphs are requested, they could be added to
+	Gentium Plus.
+
+Can I send you work I've done to be incorporated into Gentium?
+
+	We are willing to incorporate your work into Gentium Plus. See the
+	Gentium Plus FONTLOG for information on becoming a contributor.
+
+
+Technical
+=========
+
+Can you help me get Gentium working on my system?
+
+	We cannot afford to offer individual technical support. The best
+	resource is this website, where we hope to offer some limited help.
+	However, we do want to hear of any problems you encounter, so that
+	we can add them to the list of bugs to fix in later releases.
+
+	Our contact address is <gentium AT sil DOT org>.  Please understand
+	that we cannot guarantee a personal response.
+
+I can't find all the extended Latin letters in the font. How do I type them?
+
+	Gentium is Unicode-encoded, which means that the computer stores a
+	special, unique code for each letter in your document. Since most
+	keyboards do not have hundreds of keys, special software is needed
+	in order to type the hundreds of special characters supported by the
+	font. 
+	
+I can't find the 'o with right hook' in the font. Where is it?
+
+	Combinations of base letters with diacritics are often called
+	composite, or pre-composed glyphs. Gentium has hundreds of these
+	(the ones that are included in Unicode). There are, however, many
+	common combinations that are not represented by a single composite.
+	It is possible to enter these into a document, but only as
+	individual components. So 'o with right hook' would be entered as
+	'o', then 'right hook'. Although this may not look very good in some
+	cases, we're not able to anticipate every possible combination.
+	Gentium Plus includes 'smart font' support for technologies such as 
+	OpenType and SIL's Graphite. This improves diacritic positioning.
+	
+Some diacritics are not aligning well with base glyphs, and if I type more
+than one diacritic, they run into each other. Why is that?
+
+	Gentium currently has no 'smart font' code for automatic diacritic
+	positioning. You may wish to use Gentium Plus which does include
+	'smart font' support.
+
+How do I type the Greek letters?
+
+	You need a Unicode-compatible keyboarding system, which is not
+	included in the distribution package. 
+	
+I'm having problems making PDFs -- why won't my document distill?
+
+	Gentium is a large font, with lots of glyphs. As a result, some
+	printers can balk at PDFs that have the complete font embedded. The
+	easiest way to avoid this is to have Acrobat/Distiller subset the
+	font. This is generally a good idea anyway (with any font) and can
+	reduce the size of your files.
+
+
+Future
+======
+
+Now that SIL International has taken over Gentium, who will be the next
+designer?
+
+	Victor Gaultney will remain as primary designer, but other designers
+	from the SIL Non-Roman Script Initiative have joined the project team,
+	including Annie Olsen and Iska Routamaa. Other members of the NRSI team
+	will also add their expertise in technical matters.
+
+Do you plan to include other typographic enhancements (small caps, old style
+figures, etc.)?
+
+	Gentium Plus now has support for small caps. From a design point of view,
+	it would be great to have other enhancements, and we haven't ruled them
+	out. But there are other needs of much higher priority (such as Bold).
+	If you think you could contribute some of your time and effort to these
+	enhancements, see the Gentium Plus FONTLOG file for information on
+	becoming a contributor.
+
+What about bold?
+
+	Gentium Basic and Gentium Book Basic are now available in all four weights 
+	(Regular, Italic, Bold and Bold-Italic). The 'Basic' fonts only cover
+	basic Latin glyphs. We are now working on completing these weights for
+	Gentium Plus. Be patient, though, as Gentium has lots of glyphs!
+	
+Sans-serif?
+
+	There is a definite need for a sans-serif font that shares some of
+	Gentium's strengths -- high readability, economy of space, etc. It
+	would also be great if that font also harmonized well with Gentium.
+	We don't currently have any plans for a companion face, although one
+	of our other projects - Andika - may be useful. Andika is a sans-serif
+	font designed specifically for use in literacy programs around the
+	world. Andika Basic (Regular) is already available and a version of
+	Andika with a more complete repertoire will be available in a few months.
+	
+Will you be extending Gentium to cover other scripts, and Hebrew in
+particular?
+
+	It is very unlikely that we would do this, as there are so many
+	pressing needs in Latin, Greek and Cyrillic scripts. But you could
+	contribute to the project.
+	
+When will Cyrillic be completed?
+
+	Gentium Plus now has Cyrillic support.
+	
+I need a couple of ancient Greek glyphs, such as the digamma. When will
+those be ready?
+
+	These are now available in Gentium Plus.
+
+Will there be a Type 1 version? What about OpenType?
+
+	Gentium Plus has OpenType and Graphite support. We do not plan to 
+	produce Type 1. Included in the developer package of Gentium Plus
+	is a version in OT-CFF format, but it is provided as a source for
+	glyph outlines, not as a user-installable font, and includes no
+	smart font code.

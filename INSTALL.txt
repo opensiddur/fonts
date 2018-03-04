@@ -1,0 +1,26 @@
+INSTALL FONTS
+
+If you’d like to install all the fonts in the font pack at once, follow these instructions:
+
+	IN WINDOWS
+
+    To search and find all of the TTF  (True Type Font) files in the unzipped directory of fonts, use CTRL-F
+    type *.ttf (asterisk dot ttf) as your search keyword.
+    The search will list all of the fonts in their separate directories.
+    To select all of them at once use CTRL-A. (Alternately you can click edit on the windows toolbar and select, “select all”.)
+    Then right-click on any of the highlighted fonts and select “install font”. (Make sure to right-click rather than left-click, otherwise you won’t see the install font option and you’ll have to select them all again using CTRL-A.)
+	Repeat these instructions for *.otf (Open Type) fonts
+	
+	More information at: 	http://opensiddur.org/2010/07/unicode-compliant-and-open-source-licensed-hebrew-fonts/
+	
+
+INSTALL KEYBOARD
+
+	Go to the "Keyboard Layouts" directory. 
+	Select installer for your operating system.
+	
+	GNU/Linux users: follow the documentation for configuring your distribution's keyboard layouts.
+		
+	More information at: http://opensiddur.org/2012/07/how-to-type-in-hebrew-without-buying-a-new-keyboard/
+	
+	

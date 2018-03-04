@@ -1,0 +1,5 @@
+Makabi YG Font
+=====================
+26-Mar-2010 Version  1.03
+
+First release of "Makabi-YG".

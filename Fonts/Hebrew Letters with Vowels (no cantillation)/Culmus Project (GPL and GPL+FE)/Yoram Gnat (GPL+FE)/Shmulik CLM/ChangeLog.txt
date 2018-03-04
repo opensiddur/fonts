@@ -1,0 +1,9 @@
+21/12/2010
+1. Changes in few glyphs "serifs" according to suggestions
+   of Dov Grobgeld
+2. Small correction of character spacing
+
+
+August 2010
+Initial Version
+

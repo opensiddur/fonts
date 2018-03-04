@@ -1,0 +1,51 @@
+"Taamey Ashkenaz" was inspired by the fonts used to print the Hebrew 
+Bible, in Central Europe, at the end of the 19th and beginning of 
+the 20th century. Specifically, the beautiful typeface used to print
+the BHK (Biblia Hebraica Kittel), edited by Prof. Rudolf Kittel  
+trigered the design of the font
+
+The fontforge sources are in the SFD folder. The fonts
+themselves, in .ttf format, are in the TTF folder.
+
+This is for now, my only font with all variants supporting the positioning
+of Hebrew vowel signs (Niqud) and Cantillation marks (Taamim). This includes
+recognition and correct positioning of "Patah Ganuv" (furtive patah) and
+positioning of "Holam" before "Alef shoteqet".
+
+In fact, it is the Demi-Bold variant that mostly resembles the early 20th
+century Hebrew fonts. I designed the Medium variants to be more
+lightweight then the typical type-faces from the printed books.
+
+The Samples folder includes the following files: 
+
+test.pdf                  	-  Shows some special cases of mark positioning
+
+Bereshit-Kittel_and_Ashkenaz.pdf-  This file includes a photo from a 1905
+				   edition of the BHK. and then the same text
+				   (Genesis chapter 1) written with the Medium
+				   and the Bold variants of the font.
+
+Tehilim.pdf               	-  Psalms chapter 1 written with the
+				   "Medium Oblique" and "Bold Oblique" variants
+				   of the font.
+
+To correctly display text with cantillation marks one should keep the following
+typing order:
+
+    Base Letter (consonant)
+    Shin/Sin dot
+    Dagesh/Rafe
+    Niqud (vowel sign)
+    Lower cantillation marks
+    Upper cantillatio marks.
+
+See the file test.pdf for the treatment of meteg (siluq).
+
+Of course you will need a keyboard map that supports cantillation marks.
+The Tiro keyboard available at
+http://www.sbl-site.org/educational/BiblicalFonts_SBLHebrew.aspx
+can be used for Windows and OS/X. A keyboard layout based on Tiro
+is available in most Linux distributions.
+
+Yoram Gnat
+

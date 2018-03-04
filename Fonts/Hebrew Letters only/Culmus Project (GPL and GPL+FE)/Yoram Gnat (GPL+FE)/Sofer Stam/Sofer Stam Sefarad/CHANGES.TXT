@@ -1,0 +1,39 @@
+Ancient Semitic Fonts
+=====================
+21-Mar-2010 Version  0.06-1
+---------------------------   
+1.  ProtoCanaanite, all Paleo-Hebrew and Aramaic-Early-Br-Rkb
+    fonts now have the glyphs assigned to both the Hebrew Unicode
+    range (0590-05FF) and the Phoenician code range (10900-1091F)
+2.  Aramaic-VIIBCE and Aramaic-Imperial-Yeb fonts now have the
+    glyphs assigned to both the Hebrew Unicode range (0590-05FF) 
+    and the Aramaic Imperial Unicode range (10840-1085F)
+3.  The Hebrew-Samaritan font now has the glyphs assigned to both
+    the Hebrew Unicode range (0590-05FF) and the Samaritan
+    code range (0800-083F)
+4.  Font "Makabi-YG" added
+5.  Oblique, Bold and Bold-oblique weights added to "Keter YG" font
+6.  The algorithms of vowel and cantillation marks in the fonts
+    "Keter Aram Tsova" and "Keter YG" were rewritten and should now
+    correctly position the marks.
+7.  Minor corrections to "Hebrew Sofer Stam Ashkenaz" font
+8.  The following exception was added to the fonts license: 
+    (see http://www.gnu.org/licenses/gpl-faq.html#FontException)
+    "As a special exception, if you create a document which uses this font,
+    and embed this font or unaltered portions of this font into
+    the document, this font does not by itself cause the resulting document
+    to be covered by the GNU General Public License. This exception
+    does not however invalidate any other reasons why the document might be
+    covered by the GNU General Public License. If you modify this font,
+    you may extend this exception to your version of the font, but you
+    are not obligated to do so. If you do not wish to do so, delete
+    this exception statement from your version."
+
+12-Jan-2008: Version 0.05-1
+---------------------------
+gasp table added to fonts to have proper smoothing under Windows
+A windows installation package added
+
+21-Dec-2008: Version 0.05-0
+---------------------------
+Initial Version

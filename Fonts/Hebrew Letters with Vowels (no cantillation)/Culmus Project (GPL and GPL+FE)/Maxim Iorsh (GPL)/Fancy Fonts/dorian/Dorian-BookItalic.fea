@@ -1,0 +1,93 @@
+# Adobe OpenType Feature File for Dorian Book Italic CLM, version 2.1
+# Copyright (c) 2011 by Maxim Iorsh (maxim.iorsh@gmail.com). Distributed under the terms of GNU General Public License version 2(http://www.gnu.org/licenses/gpl-2.0.html). 
+# All rights reserved.
+
+@base = [afii57664 afii57665 afii57666 afii57667 afii57668 afii57669 afii57670 afii57671 afii57672 afii57673 afii57674 afii57675 afii57676 afii57677 afii57678 afii57679 afii57680 afii57681 afii57682 afii57683 afii57684 afii57685 afii57686 afii57687 afii57688 afii57689 afii57690];
+@base_dagesh = [uniFB30 uniFB31 uniFB32 uniFB33 uniFB34 uniFB35 uniFB36 uniFB37 uniFB38 uniFB39 uniFB3A uniFB3B uniFB3C uniFB3D uniFB3E uniFB3F uniFB40 uniFB41 uniFB42 uniFB43 uniFB44 uniFB45 uniFB46 uniFB47 uniFB48 uniFB49 uniFB4A];
+@diac = [afii57799 afii57801 afii57800 afii57802 afii57793 afii57794 afii57795 afii57798 afii57797 afii57806 uni05BA afii57796 uni05C7];
+@low_diac = [afii57799 afii57801 afii57800 afii57802 afii57793 afii57794 afii57795 afii57798 afii57797 afii57796 uni05C7 patah.short qamats.short];
+
+lookup NUN_SMALL {
+	substitute afii57680 by nun.small;
+} NUN_SMALL;
+
+lookup NUN_SHORT {
+	substitute afii57680 by nun.short;
+} NUN_SHORT;
+
+lookup NUN_SHORT2 {
+	substitute afii57680 by nun.short2;
+} NUN_SHORT2;
+
+lookup NUN_TINY {
+	substitute afii57680 by nun.tiny;
+} NUN_TINY;
+
+lookup NUN_TINY_DAGESH {
+	substitute uniFB40 by nun.tiny.dagesh;
+} NUN_TINY_DAGESH;
+
+lookup NUN_TINY2 {
+	substitute afii57680 by nun.tiny2;
+} NUN_TINY2;
+
+lookup VAV_SHORT {
+	substitute afii57669 by vav.short;
+} VAV_SHORT;
+
+lookup LAMED_SHORT {
+	substitute afii57676 by lamed.short;
+} LAMED_SHORT;
+
+lookup LAMED_SLANTED {
+	substitute afii57676 by lamed.slanted;
+} LAMED_SLANTED;
+
+lookup LAMED_MEDIAN {
+	substitute afii57676 by lamed.median;
+} LAMED_MEDIAN;
+
+lookup TAV_LONGTAIL {
+	substitute afii57690 by tav.longtail;
+} TAV_LONGTAIL;
+
+lookup DIAC_SHORT {
+	substitute afii57798 by patah.short;
+	substitute afii57797 by qamats.short;
+} DIAC_SHORT;
+
+feature ccmp {
+  script hebr; language dflt;
+  substitute afii57680' lookup NUN_SMALL [afii57680 afii57687];
+  substitute afii57680' lookup NUN_TINY afii57679;
+  substitute afii57680' lookup NUN_TINY2 afii57674;
+  substitute afii57680' lookup NUN_SHORT [afii57669 afii57673] afii57680;
+  substitute afii57680' lookup NUN_SHORT2 [afii57669 afii57673] [afii57679 afii57674];
+  substitute afii57669' lookup VAV_SHORT [afii57683 afii57685];
+
+  substitute [afii57676 afii57686 lamed.median] afii57676' lookup LAMED_SHORT;
+  substitute @diac [afii57676 afii57686 lamed.median] afii57676' lookup LAMED_SHORT;
+
+  substitute afii57676' lookup LAMED_SLANTED [afii57683 afii57685];
+  substitute afii57676' lookup LAMED_SLANTED @diac [afii57683 afii57685];
+
+  substitute @base afii57676' lookup LAMED_MEDIAN;
+# backtrack sequence reversed - bug in FontForge
+  substitute @diac @base afii57676' lookup LAMED_MEDIAN;
+
+  substitute afii57690' lookup TAV_LONGTAIL [afii57664 afii57666];
+  substitute afii57690' lookup TAV_LONGTAIL @diac [afii57664 afii57666];
+
+# nun + dagesh? + diacritic? + base + dagesh? + low_diacritic
+  substitute afii57680' lookup NUN_TINY [@base @base_dagesh] @low_diac;
+  substitute afii57680' lookup NUN_TINY [afii57807 @diac] [@base @base_dagesh] @low_diac;
+  substitute afii57680' lookup NUN_TINY [afii57807 @diac] [afii57807 @diac] [@base @base_dagesh] @low_diac;
+  substitute uniFB40' lookup NUN_TINY_DAGESH [@base @base_dagesh] @low_diac;
+  substitute uniFB40' lookup NUN_TINY_DAGESH @diac [@base @base_dagesh] @low_diac;
+
+# yod/vav + diacritic + yod/vav
+  substitute [afii57669 afii57673] @low_diac' lookup DIAC_SHORT [afii57669 afii57673 uniFB35 uniFB39] @low_diac;
+# backtrack sequence reversed - bug in FontForge
+  substitute [afii57669 afii57673 uniFB35 uniFB39] @low_diac [afii57669 afii57673] @low_diac' lookup DIAC_SHORT;
+} ccmp;
+
