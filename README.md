@@ -1,4 +1,4 @@
 fonts
 =====
 
-open-source licensed, Unciode fonts in Hebrew, Latin, Creek, Cyrillic, and Amharic scripts
+open-source licensed, Unicode fonts in Hebrew, Latin, Creek, Cyrillic, and Amharic scripts
